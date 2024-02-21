@@ -103,8 +103,9 @@ def create_text_from_excel(df, gap, line):
         reginonalVia = ""
         reginalDest = ""
 
-        if(pd.isna(row[df.columns[3]]) == False):
+        if(pd.isna(row[df.columns[4]]) == False):
             reginonalVia = get_first_three_strings(str(row[df.columns[4]]).strip(), '-')
+        if(pd.isna(row[df.columns[3]]) == False):
             reginalDest = str(row[df.columns[3]]).strip() + " " + reginonalVia
 
         # Add data from Excel row

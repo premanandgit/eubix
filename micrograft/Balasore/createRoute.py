@@ -99,8 +99,13 @@ def create_text_from_excel(df, gap, line):
         destOnly = str(row[df.columns[1]]).strip()
         destVia = get_first_three_strings(str(row[df.columns[2]]).strip(), '-')
         dest = destOnly + " " + destVia
-        reginonalVia = get_first_three_strings(str(row[df.columns[4]]).strip(), '-')
-        reginalDest = str(row[df.columns[3]]).strip() + " " + reginonalVia
+        reginonalVia = ""
+        reginalDest = ""
+
+        if(pd.isna(row[df.columns[4]]) == False):
+            reginonalVia = get_first_three_strings(str(row[df.columns[4]]).strip(), '-')
+        if(pd.isna(row[df.columns[3]]) == False):
+            reginalDest = str(row[df.columns[3]]).strip() + " " + reginonalVia
 
         # Add data from Excel row
         routesText += str(index+1) + ",1," + route + "," + str(row[df.columns[1]]).strip() + ",1"
