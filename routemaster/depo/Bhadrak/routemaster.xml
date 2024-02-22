@@ -1,0 +1,152 @@
+<Routes>
+  <Route routeno="BH001UP">
+  	<Number>BH001UP</Number>
+  	<StartPoint>Bhadrak</StartPoint>
+  	<DestinationPoint>Geltua</DestinationPoint>
+  </Route>
+  <Route routeno="BH002UP">
+  	<Number>BH002UP</Number>
+  	<StartPoint>Bhadrak</StartPoint>
+  	<DestinationPoint>Sahada</DestinationPoint>
+  </Route>
+  <Route routeno="BH003UP">
+  	<Number>BH003UP</Number>
+  	<StartPoint>Bhadrak</StartPoint>
+  	<DestinationPoint>Arnapal</DestinationPoint>
+  </Route>
+  <Route routeno="BH004UP">
+  	<Number>BH004UP</Number>
+  	<StartPoint>Bhadrak</StartPoint>
+  	<DestinationPoint>Gujidarada-Erei</DestinationPoint>
+  </Route>
+  <Route routeno="BH005UP">
+  	<Number>BH005UP</Number>
+  	<StartPoint>Basudevpur</StartPoint>
+  	<DestinationPoint>Laxmidaspur</DestinationPoint>
+  </Route>
+  <Route routeno="BH006UP">
+  	<Number>BH006UP</Number>
+  	<StartPoint>Basudevpur</StartPoint>
+  	<DestinationPoint>Chudamani</DestinationPoint>
+  </Route>
+  <Route routeno="BH007UP">
+  	<Number>BH007UP</Number>
+  	<StartPoint>Basudevpur</StartPoint>
+  	<DestinationPoint>Andola</DestinationPoint>
+  </Route>
+  <Route routeno="BH008UP">
+  	<Number>BH008UP</Number>
+  	<StartPoint>Dhamnagar</StartPoint>
+  	<DestinationPoint>Anandpur</DestinationPoint>
+  </Route>
+  <Route routeno="BH009UP">
+  	<Number>BH009UP</Number>
+  	<StartPoint>Dhamnagar</StartPoint>
+  	<DestinationPoint>Raipur</DestinationPoint>
+  </Route>
+  <Route routeno="BH010UP">
+  	<Number>BH010UP</Number>
+  	<StartPoint>Dhamnagar</StartPoint>
+  	<DestinationPoint>Aradi</DestinationPoint>
+  </Route>
+  <Route routeno="BH011UP">
+  	<Number>BH011UP</Number>
+  	<StartPoint>Dhamnagar</StartPoint>
+  	<DestinationPoint>Gobindpur</DestinationPoint>
+  </Route>
+  <Route routeno="BH012UP">
+  	<Number>BH012UP</Number>
+  	<StartPoint>Tihidi</StartPoint>
+  	<DestinationPoint>Narendrapur</DestinationPoint>
+  </Route>
+  <Route routeno="BH013UP">
+  	<Number>BH013UP</Number>
+  	<StartPoint>Tihidi</StartPoint>
+  	<DestinationPoint>Bodak</DestinationPoint>
+  </Route>
+  <Route routeno="BH014UP">
+  	<Number>BH014UP</Number>
+  	<StartPoint>Tihidi</StartPoint>
+  	<DestinationPoint>Talagopabindha-Shyamsundarpur</DestinationPoint>
+  </Route>
+  <Route routeno="BH015UP">
+  	<Number>BH015UP</Number>
+  	<StartPoint>Tihidi</StartPoint>
+  	<DestinationPoint>Bahabalapur-Gobindapur</DestinationPoint>
+  </Route>
+  <Route routeno="BH016UP">
+  	<Number>BH016UP</Number>
+  	<StartPoint>Bonth</StartPoint>
+  	<DestinationPoint>BM Gotha</DestinationPoint>
+  </Route>
+  <Route routeno="BH017UP">
+  	<Number>BH017UP</Number>
+  	<StartPoint>Bonth</StartPoint>
+  	<DestinationPoint>Badasandado</DestinationPoint>
+  </Route>
+  <Route routeno="BH018UP">
+  	<Number>BH018UP</Number>
+  	<StartPoint>Bonth</StartPoint>
+  	<DestinationPoint>R.K. Pur</DestinationPoint>
+  </Route>
+  <Route routeno="BH019UP">
+  	<Number>BH019UP</Number>
+  	<StartPoint>Chandbali</StartPoint>
+  	<DestinationPoint>Karanapalli</DestinationPoint>
+  </Route>
+  <Route routeno="BH020UP">
+  	<Number>BH020UP</Number>
+  	<StartPoint>Chandbali</StartPoint>
+  	<DestinationPoint>Panchutikiri Ghaat</DestinationPoint>
+  </Route>
+  <Route routeno="BH021UP">
+  	<Number>BH021UP</Number>
+  	<StartPoint>Chandbali</StartPoint>
+  	<DestinationPoint>Ghatapur-Dola Mandap</DestinationPoint>
+  </Route>
+  <Route routeno="BH022UP">
+  	<Number>BH022UP</Number>
+  	<StartPoint>Chandbali</StartPoint>
+  	<DestinationPoint>Basudevpur</DestinationPoint>
+  </Route>
+  <Route routeno="BH023UP">
+  	<Number>BH023UP</Number>
+  	<StartPoint>Bhandaripokhari</StartPoint>
+  	<DestinationPoint>Kurigaon</DestinationPoint>
+  </Route>
+  <Route routeno="BH024UP">
+  	<Number>BH024UP</Number>
+  	<StartPoint>Bhandaripokhari</StartPoint>
+  	<DestinationPoint>Dhamnagar Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="BH201UP">
+  	<Number>BH201UP</Number>
+  	<StartPoint>Basudevpur</StartPoint>
+  	<DestinationPoint>Bhadrak</DestinationPoint>
+  </Route>
+  <Route routeno="BH202UP">
+  	<Number>BH202UP</Number>
+  	<StartPoint>Chandbali</StartPoint>
+  	<DestinationPoint>Bhadrak</DestinationPoint>
+  </Route>
+  <Route routeno="BH203UP">
+  	<Number>BH203UP</Number>
+  	<StartPoint>Dhamnagar</StartPoint>
+  	<DestinationPoint>Bhadrak</DestinationPoint>
+  </Route>
+  <Route routeno="BH204UP">
+  	<Number>BH204UP</Number>
+  	<StartPoint>Tihidi</StartPoint>
+  	<DestinationPoint>Bhadrak</DestinationPoint>
+  </Route>
+  <Route routeno="BH205UP">
+  	<Number>BH205UP</Number>
+  	<StartPoint>Bhandaripokhari</StartPoint>
+  	<DestinationPoint>Bhadrak</DestinationPoint>
+  </Route>
+  <Route routeno="BH206UP">
+  	<Number>BH206UP</Number>
+  	<StartPoint>Bonth</StartPoint>
+  	<DestinationPoint>Bhadrak</DestinationPoint>
+  </Route>
+</Routes>

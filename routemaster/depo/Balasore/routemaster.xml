@@ -1,0 +1,282 @@
+<Routes>
+  <Route routeno="BL001UP">
+  	<Number>BL001UP</Number>
+  	<StartPoint>Balasore</StartPoint>
+  	<DestinationPoint>Kasafal</DestinationPoint>
+  </Route>
+  <Route routeno="BL002UP">
+  	<Number>BL002UP</Number>
+  	<StartPoint>Balasore</StartPoint>
+  	<DestinationPoint>Srirampur</DestinationPoint>
+  </Route>
+  <Route routeno="BL003UP">
+  	<Number>BL003UP</Number>
+  	<StartPoint>Balasore</StartPoint>
+  	<DestinationPoint>Chhanua</DestinationPoint>
+  </Route>
+  <Route routeno="BL004UP">
+  	<Number>BL004UP</Number>
+  	<StartPoint>Balasore</StartPoint>
+  	<DestinationPoint>Rasalpur</DestinationPoint>
+  </Route>
+  <Route routeno="BL005UP">
+  	<Number>BL005UP</Number>
+  	<StartPoint>Balasore</StartPoint>
+  	<DestinationPoint>Chandipur</DestinationPoint>
+  </Route>
+  <Route routeno="BL006UP">
+  	<Number>BL006UP</Number>
+  	<StartPoint>Patrajhada (BHQ)</StartPoint>
+  	<DestinationPoint>Gadpada</DestinationPoint>
+  </Route>
+  <Route routeno="BL007UP">
+  	<Number>BL007UP</Number>
+  	<StartPoint>Patrajhada (BHQ)</StartPoint>
+  	<DestinationPoint>Sarisa (Purusottampur)</DestinationPoint>
+  </Route>
+  <Route routeno="BL008UP">
+  	<Number>BL008UP</Number>
+  	<StartPoint>Patrajhada (BHQ)</StartPoint>
+  	<DestinationPoint>Nabara Chhaka</DestinationPoint>
+  </Route>
+  <Route routeno="BL009UP">
+  	<Number>BL009UP</Number>
+  	<StartPoint>Patrajhada (BHQ)</StartPoint>
+  	<DestinationPoint>Chhachina (Mukulisi)</DestinationPoint>
+  </Route>
+  <Route routeno="BL010UP">
+  	<Number>BL010UP</Number>
+  	<StartPoint>Thanchak</StartPoint>
+  	<DestinationPoint> Balim</DestinationPoint>
+  </Route>
+  <Route routeno="BL011UP">
+  	<Number>BL011UP</Number>
+  	<StartPoint>Thanchak</StartPoint>
+  	<DestinationPoint> Daruha</DestinationPoint>
+  </Route>
+  <Route routeno="BL012UP">
+  	<Number>BL012UP</Number>
+  	<StartPoint>Thanchak</StartPoint>
+  	<DestinationPoint> NM Padia</DestinationPoint>
+  </Route>
+  <Route routeno="BL013UP">
+  	<Number>BL013UP</Number>
+  	<StartPoint>Thanchak</StartPoint>
+  	<DestinationPoint>Badpahi Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="BL014UP">
+  	<Number>BL014UP</Number>
+  	<StartPoint>Thanchak</StartPoint>
+  	<DestinationPoint>Rankotha</DestinationPoint>
+  </Route>
+  <Route routeno="BL015UP">
+  	<Number>BL015UP</Number>
+  	<StartPoint>Thanchak</StartPoint>
+  	<DestinationPoint> Analia Hat</DestinationPoint>
+  </Route>
+  <Route routeno="BL016UP">
+  	<Number>BL016UP</Number>
+  	<StartPoint> Baliapal </StartPoint>
+  	<DestinationPoint>Jambhiral</DestinationPoint>
+  </Route>
+  <Route routeno="BL017UP">
+  	<Number>BL017UP</Number>
+  	<StartPoint> Baliapal </StartPoint>
+  	<DestinationPoint>Choumukh</DestinationPoint>
+  </Route>
+  <Route routeno="BL018UP">
+  	<Number>BL018UP</Number>
+  	<StartPoint> Baliapal </StartPoint>
+  	<DestinationPoint>Asti</DestinationPoint>
+  </Route>
+  <Route routeno="BL019UP">
+  	<Number>BL019UP</Number>
+  	<StartPoint> Baliapal </StartPoint>
+  	<DestinationPoint>Kunduli</DestinationPoint>
+  </Route>
+  <Route routeno="BL020UP">
+  	<Number>BL020UP</Number>
+  	<StartPoint>Bahanaga</StartPoint>
+  	<DestinationPoint>Kharasahapur</DestinationPoint>
+  </Route>
+  <Route routeno="BL021UP">
+  	<Number>BL021UP</Number>
+  	<StartPoint>Bahanaga</StartPoint>
+  	<DestinationPoint>Odasala</DestinationPoint>
+  </Route>
+  <Route routeno="BL022UP">
+  	<Number>BL022UP</Number>
+  	<StartPoint>Bahanaga</StartPoint>
+  	<DestinationPoint>Chakajagannathpur</DestinationPoint>
+  </Route>
+  <Route routeno="BL023UP">
+  	<Number>BL023UP</Number>
+  	<StartPoint>Jaleswar</StartPoint>
+  	<DestinationPoint>Sardarbandh</DestinationPoint>
+  </Route>
+  <Route routeno="BL024UP">
+  	<Number>BL024UP</Number>
+  	<StartPoint>Jaleswar</StartPoint>
+  	<DestinationPoint>Raibania</DestinationPoint>
+  </Route>
+  <Route routeno="BL025UP">
+  	<Number>BL025UP</Number>
+  	<StartPoint>Jaleswar</StartPoint>
+  	<DestinationPoint>Jharpipal</DestinationPoint>
+  </Route>
+  <Route routeno="BL026UP">
+  	<Number>BL026UP</Number>
+  	<StartPoint>Jaleswar</StartPoint>
+  	<DestinationPoint>Sampatia</DestinationPoint>
+  </Route>
+  <Route routeno="BL027UP">
+  	<Number>BL027UP</Number>
+  	<StartPoint>Khaira</StartPoint>
+  	<DestinationPoint>Barada</DestinationPoint>
+  </Route>
+  <Route routeno="BL028UP">
+  	<Number>BL028UP</Number>
+  	<StartPoint>Khaira</StartPoint>
+  	<DestinationPoint>Rapeya /Nachipur Melanopadia </DestinationPoint>
+  </Route>
+  <Route routeno="BL029UP">
+  	<Number>BL029UP</Number>
+  	<StartPoint>Khaira</StartPoint>
+  	<DestinationPoint>Raikula</DestinationPoint>
+  </Route>
+  <Route routeno="BL030UP">
+  	<Number>BL030UP</Number>
+  	<StartPoint>Khaira</StartPoint>
+  	<DestinationPoint>Kaithagadia</DestinationPoint>
+  </Route>
+  <Route routeno="BL031UP">
+  	<Number>BL031UP</Number>
+  	<StartPoint>Nilgiri</StartPoint>
+  	<DestinationPoint>Narsingpur</DestinationPoint>
+  </Route>
+  <Route routeno="BL032UP">
+  	<Number>BL032UP</Number>
+  	<StartPoint>Nilgiri</StartPoint>
+  	<DestinationPoint>Arbandh</DestinationPoint>
+  </Route>
+  <Route routeno="BL033UP">
+  	<Number>BL033UP</Number>
+  	<StartPoint>Nilgiri</StartPoint>
+  	<DestinationPoint>Tentulia</DestinationPoint>
+  </Route>
+  <Route routeno="BL034UP">
+  	<Number>BL034UP</Number>
+  	<StartPoint> Talakia </StartPoint>
+  	<DestinationPoint>Fatepur </DestinationPoint>
+  </Route>
+  <Route routeno="BL035UP">
+  	<Number>BL035UP</Number>
+  	<StartPoint> Talakia</StartPoint>
+  	<DestinationPoint> Baunsabania </DestinationPoint>
+  </Route>
+  <Route routeno="BL036UP">
+  	<Number>BL036UP</Number>
+  	<StartPoint> Remuna</StartPoint>
+  	<DestinationPoint> Inchudi Hospital</DestinationPoint>
+  </Route>
+  <Route routeno="BL037UP">
+  	<Number>BL037UP</Number>
+  	<StartPoint> Remuna</StartPoint>
+  	<DestinationPoint>Kalyanpur</DestinationPoint>
+  </Route>
+  <Route routeno="BL038UP">
+  	<Number>BL038UP</Number>
+  	<StartPoint> Remuna</StartPoint>
+  	<DestinationPoint>Tentulida </DestinationPoint>
+  </Route>
+  <Route routeno="BL039UP">
+  	<Number>BL039UP</Number>
+  	<StartPoint> Remuna</StartPoint>
+  	<DestinationPoint> Santa Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="BL040UP">
+  	<Number>BL040UP</Number>
+  	<StartPoint>Markona</StartPoint>
+  	<DestinationPoint>Muruna</DestinationPoint>
+  </Route>
+  <Route routeno="BL041UP">
+  	<Number>BL041UP</Number>
+  	<StartPoint>Markona</StartPoint>
+  	<DestinationPoint>Kanheibindha</DestinationPoint>
+  </Route>
+  <Route routeno="BL042UP">
+  	<Number>BL042UP</Number>
+  	<StartPoint>Markona</StartPoint>
+  	<DestinationPoint>Andarai</DestinationPoint>
+  </Route>
+  <Route routeno="BL043UP">
+  	<Number>BL043UP</Number>
+  	<StartPoint>Soro</StartPoint>
+  	<DestinationPoint> Tentei</DestinationPoint>
+  </Route>
+  <Route routeno="BL044UP">
+  	<Number>BL044UP</Number>
+  	<StartPoint>Soro</StartPoint>
+  	<DestinationPoint> Singakhunta</DestinationPoint>
+  </Route>
+  <Route routeno="BL045UP">
+  	<Number>BL045UP</Number>
+  	<StartPoint>Soro</StartPoint>
+  	<DestinationPoint> Madhusudanpur</DestinationPoint>
+  </Route>
+  <Route routeno="BL046UP">
+  	<Number>BL046UP</Number>
+  	<StartPoint>Soro</StartPoint>
+  	<DestinationPoint>Sabira</DestinationPoint>
+  </Route>
+  <Route routeno="BL201UP">
+  	<Number>BL201UP</Number>
+  	<StartPoint>Basta</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL202UP">
+  	<Number>BL202UP</Number>
+  	<StartPoint>Bhograi</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL203UP">
+  	<Number>BL203UP</Number>
+  	<StartPoint>Baliapal</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL204UP">
+  	<Number>BL204UP</Number>
+  	<StartPoint>Bahanga</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL205UP">
+  	<Number>BL205UP</Number>
+  	<StartPoint>Jaleswar</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL206UP">
+  	<Number>BL206UP</Number>
+  	<StartPoint>Khaira</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL207UP">
+  	<Number>BL207UP</Number>
+  	<StartPoint>Nilgiri</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL208UP">
+  	<Number>BL208UP</Number>
+  	<StartPoint>Oupada</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL209UP">
+  	<Number>BL209UP</Number>
+  	<StartPoint>Simulia</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+  <Route routeno="BL210UP">
+  	<Number>BL210UP</Number>
+  	<StartPoint>Soro</StartPoint>
+  	<DestinationPoint>Balasore</DestinationPoint>
+  </Route>
+</Routes>

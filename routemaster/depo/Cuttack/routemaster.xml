@@ -1,0 +1,297 @@
+<Routes>
+  <Route routeno="CT001UP">
+  	<Number>CT001UP</Number>
+  	<StartPoint>Cuttack Sadar</StartPoint>
+  	<DestinationPoint>Arthanga</DestinationPoint>
+  </Route>
+  <Route routeno="CT002UP">
+  	<Number>CT002UP</Number>
+  	<StartPoint>Cuttack Sadar</StartPoint>
+  	<DestinationPoint>Ayatpur</DestinationPoint>
+  </Route>
+  <Route routeno="CT003UP">
+  	<Number>CT003UP</Number>
+  	<StartPoint>Cuttack Sadar</StartPoint>
+  	<DestinationPoint>Chanduli</DestinationPoint>
+  </Route>
+  <Route routeno="CT004UP">
+  	<Number>CT004UP</Number>
+  	<StartPoint>Cuttack Sadar</StartPoint>
+  	<DestinationPoint>Bamphakuda</DestinationPoint>
+  </Route>
+  <Route routeno="CT005UP">
+  	<Number>CT005UP</Number>
+  	<StartPoint>Athagarh</StartPoint>
+  	<DestinationPoint>Gobora</DestinationPoint>
+  </Route>
+  <Route routeno="CT006UP">
+  	<Number>CT006UP</Number>
+  	<StartPoint>Athagarh</StartPoint>
+  	<DestinationPoint>Anantapur</DestinationPoint>
+  </Route>
+  <Route routeno="CT007UP">
+  	<Number>CT007UP</Number>
+  	<StartPoint>Athagarh</StartPoint>
+  	<DestinationPoint>Badabhuindesh</DestinationPoint>
+  </Route>
+  <Route routeno="CT008UP">
+  	<Number>CT008UP</Number>
+  	<StartPoint>Badamba</StartPoint>
+  	<DestinationPoint>Jodumu</DestinationPoint>
+  </Route>
+  <Route routeno="CT009UP">
+  	<Number>CT009UP</Number>
+  	<StartPoint>Badamba </StartPoint>
+  	<DestinationPoint>Chhanchunia</DestinationPoint>
+  </Route>
+  <Route routeno="CT010UP">
+  	<Number>CT010UP</Number>
+  	<StartPoint>Badamba</StartPoint>
+  	<DestinationPoint>Malati</DestinationPoint>
+  </Route>
+  <Route routeno="CT011UP">
+  	<Number>CT011UP</Number>
+  	<StartPoint>Badamba</StartPoint>
+  	<DestinationPoint>Biswanathpur</DestinationPoint>
+  </Route>
+  <Route routeno="CT012UP">
+  	<Number>CT012UP</Number>
+  	<StartPoint>Banki</StartPoint>
+  	<DestinationPoint>Kalapathar</DestinationPoint>
+  </Route>
+  <Route routeno="CT013UP">
+  	<Number>CT013UP</Number>
+  	<StartPoint>Banki</StartPoint>
+  	<DestinationPoint>Puincha</DestinationPoint>
+  </Route>
+  <Route routeno="CT014UP">
+  	<Number>CT014UP</Number>
+  	<StartPoint>Banki</StartPoint>
+  	<DestinationPoint>Bansaput</DestinationPoint>
+  </Route>
+  <Route routeno="CT015UP">
+  	<Number>CT015UP</Number>
+  	<StartPoint>Banki</StartPoint>
+  	<DestinationPoint>Kantapanhara</DestinationPoint>
+  </Route>
+  <Route routeno="CT016UP">
+  	<Number>CT016UP</Number>
+  	<StartPoint>Baranga</StartPoint>
+  	<DestinationPoint>Siso</DestinationPoint>
+  </Route>
+  <Route routeno="CT017UP">
+  	<Number>CT017UP</Number>
+  	<StartPoint>Baranga</StartPoint>
+  	<DestinationPoint>Nachhipur</DestinationPoint>
+  </Route>
+  <Route routeno="CT018UP">
+  	<Number>CT018UP</Number>
+  	<StartPoint> Baranga</StartPoint>
+  	<DestinationPoint>Talagar</DestinationPoint>
+  </Route>
+  <Route routeno="CT019UP">
+  	<Number>CT019UP</Number>
+  	<StartPoint>Dampara</StartPoint>
+  	<DestinationPoint>Patapur</DestinationPoint>
+  </Route>
+  <Route routeno="CT020UP">
+  	<Number>CT020UP</Number>
+  	<StartPoint>Dampara</StartPoint>
+  	<DestinationPoint>Tulasipur</DestinationPoint>
+  </Route>
+  <Route routeno="CT021UP">
+  	<Number>CT021UP</Number>
+  	<StartPoint>Kantapada</StartPoint>
+  	<DestinationPoint>Nahalpur</DestinationPoint>
+  </Route>
+  <Route routeno="CT022UP">
+  	<Number>CT022UP</Number>
+  	<StartPoint>Kantapada</StartPoint>
+  	<DestinationPoint>Postala</DestinationPoint>
+  </Route>
+  <Route routeno="CT023UP">
+  	<Number>CT023UP</Number>
+  	<StartPoint>Kantapada</StartPoint>
+  	<DestinationPoint>Dimini</DestinationPoint>
+  </Route>
+  <Route routeno="CT024UP">
+  	<Number>CT024UP</Number>
+  	<StartPoint>Kuanpal</StartPoint>
+  	<DestinationPoint>Kurujanga</DestinationPoint>
+  </Route>
+  <Route routeno="CT025UP">
+  	<Number>CT025UP</Number>
+  	<StartPoint>Kuanpal</StartPoint>
+  	<DestinationPoint>Haladia</DestinationPoint>
+  </Route>
+  <Route routeno="CT026UP">
+  	<Number>CT026UP</Number>
+  	<StartPoint>Kuanpal</StartPoint>
+  	<DestinationPoint>Gotara (Asulpur)</DestinationPoint>
+  </Route>
+  <Route routeno="CT027UP">
+  	<Number>CT027UP</Number>
+  	<StartPoint>Narsinghpur</StartPoint>
+  	<DestinationPoint>Godibandha</DestinationPoint>
+  </Route>
+  <Route routeno="CT028UP">
+  	<Number>CT028UP</Number>
+  	<StartPoint>Narsinghpur</StartPoint>
+  	<DestinationPoint>Debabhuin</DestinationPoint>
+  </Route>
+  <Route routeno="CT029UP">
+  	<Number>CT029UP</Number>
+  	<StartPoint>Narsinghpur</StartPoint>
+  	<DestinationPoint>Chakamunda</DestinationPoint>
+  </Route>
+  <Route routeno="CT030UP">
+  	<Number>CT030UP</Number>
+  	<StartPoint>Niali</StartPoint>
+  	<DestinationPoint>Erancha</DestinationPoint>
+  </Route>
+  <Route routeno="CT031UP">
+  	<Number>CT031UP</Number>
+  	<StartPoint>Niali</StartPoint>
+  	<DestinationPoint>Nivaran</DestinationPoint>
+  </Route>
+  <Route routeno="CT032UP">
+  	<Number>CT032UP</Number>
+  	<StartPoint>Niali</StartPoint>
+  	<DestinationPoint>Tihudi</DestinationPoint>
+  </Route>
+  <Route routeno="CT033UP">
+  	<Number>CT033UP</Number>
+  	<StartPoint>Niali</StartPoint>
+  	<DestinationPoint>Nuagaon</DestinationPoint>
+  </Route>
+  <Route routeno="CT034UP">
+  	<Number>CT034UP</Number>
+  	<StartPoint>Nischintakoili</StartPoint>
+  	<DestinationPoint>Uttarkul</DestinationPoint>
+  </Route>
+  <Route routeno="CT035UP">
+  	<Number>CT035UP</Number>
+  	<StartPoint>Nischintakoili</StartPoint>
+  	<DestinationPoint>Katikata</DestinationPoint>
+  </Route>
+  <Route routeno="CT036UP">
+  	<Number>CT036UP</Number>
+  	<StartPoint>Nischintakoili</StartPoint>
+  	<DestinationPoint>Tarat</DestinationPoint>
+  </Route>
+  <Route routeno="CT037UP">
+  	<Number>CT037UP</Number>
+  	<StartPoint>Chandradeipur (Salepur)</StartPoint>
+  	<DestinationPoint>Mahajanpur</DestinationPoint>
+  </Route>
+  <Route routeno="CT038UP">
+  	<Number>CT038UP</Number>
+  	<StartPoint>Chandradeipur (Salepur)</StartPoint>
+  	<DestinationPoint>Naiguan</DestinationPoint>
+  </Route>
+  <Route routeno="CT039UP">
+  	<Number>CT039UP</Number>
+  	<StartPoint>Chandradeipur (Salepur)</StartPoint>
+  	<DestinationPoint>Sudhakhanda</DestinationPoint>
+  </Route>
+  <Route routeno="CT040UP">
+  	<Number>CT040UP</Number>
+  	<StartPoint>Tangi Chowdwar </StartPoint>
+  	<DestinationPoint>Kakhadi</DestinationPoint>
+  </Route>
+  <Route routeno="CT041UP">
+  	<Number>CT041UP</Number>
+  	<StartPoint>Tangi Chowdwar </StartPoint>
+  	<DestinationPoint>Badasamntrapur</DestinationPoint>
+  </Route>
+  <Route routeno="CT042UP">
+  	<Number>CT042UP</Number>
+  	<StartPoint>Tangi Chowdwar </StartPoint>
+  	<DestinationPoint>Jaripada</DestinationPoint>
+  </Route>
+  <Route routeno="CT043UP">
+  	<Number>CT043UP</Number>
+  	<StartPoint>Tangi Chowdwar </StartPoint>
+  	<DestinationPoint>Karanji</DestinationPoint>
+  </Route>
+  <Route routeno="CT044UP">
+  	<Number>CT044UP</Number>
+  	<StartPoint>Panchagan (Tigiria)</StartPoint>
+  	<DestinationPoint>Samapur</DestinationPoint>
+  </Route>
+  <Route routeno="CT045UP">
+  	<Number>CT045UP</Number>
+  	<StartPoint>Panchagan (Tigiria)</StartPoint>
+  	<DestinationPoint>Handapasi</DestinationPoint>
+  </Route>
+  <Route routeno="CT046UP">
+  	<Number>CT046UP</Number>
+  	<StartPoint>Panchagan (Tigiria)</StartPoint>
+  	<DestinationPoint>Jamadeipur</DestinationPoint>
+  </Route>
+  <Route routeno="CT047UP">
+  	<Number>CT047UP</Number>
+  	<StartPoint>Panchagan (Tigiria)</StartPoint>
+  	<DestinationPoint>Gadadharpur</DestinationPoint>
+  </Route>
+  <Route routeno="CT201UP">
+  	<Number>CT201UP</Number>
+  	<StartPoint>Athagarh</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT202UP">
+  	<Number>CT202UP</Number>
+  	<StartPoint>Badamba</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT203UP">
+  	<Number>CT203UP</Number>
+  	<StartPoint>Banki</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT204UP">
+  	<Number>CT204UP</Number>
+  	<StartPoint>Dampara</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT205UP">
+  	<Number>CT205UP</Number>
+  	<StartPoint>Kantapada</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT206UP">
+  	<Number>CT206UP</Number>
+  	<StartPoint>Mahanga</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT207UP">
+  	<Number>CT207UP</Number>
+  	<StartPoint>Narsinghpur</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT208UP">
+  	<Number>CT208UP</Number>
+  	<StartPoint>Niali</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT209UP">
+  	<Number>CT209UP</Number>
+  	<StartPoint>Nischintakoili</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT210UP">
+  	<Number>CT210UP</Number>
+  	<StartPoint>Salepur</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT211UP">
+  	<Number>CT211UP</Number>
+  	<StartPoint>Tangi</StartPoint>
+  	<DestinationPoint>Chowdwar-Cuttack</DestinationPoint>
+  </Route>
+  <Route routeno="CT212UP">
+  	<Number>CT212UP</Number>
+  	<StartPoint>Tigiria</StartPoint>
+  	<DestinationPoint>Cuttack</DestinationPoint>
+  </Route>
+</Routes>

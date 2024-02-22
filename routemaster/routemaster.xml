@@ -1,0 +1,647 @@
+<Routes>
+  <Route routeno="MJ001UP">
+  	<Number>MJ001UP</Number>
+  	<StartPoint>Baripada</StartPoint>
+  	<DestinationPoint>Khadisole</DestinationPoint>
+  </Route>
+  <Route routeno="MJ002UP">
+  	<Number>MJ002UP</Number>
+  	<StartPoint>Baripada</StartPoint>
+  	<DestinationPoint>Chandanpur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ003UP">
+  	<Number>MJ003UP</Number>
+  	<StartPoint>Baripada</StartPoint>
+  	<DestinationPoint>Bhagbatchandrapur GP</DestinationPoint>
+  </Route>
+  <Route routeno="MJ004UP">
+  	<Number>MJ004UP</Number>
+  	<StartPoint>Baripada</StartPoint>
+  	<DestinationPoint>Sankhabhanga</DestinationPoint>
+  </Route>
+  <Route routeno="MJ005UP">
+  	<Number>MJ005UP</Number>
+  	<StartPoint>Badasahi</StartPoint>
+  	<DestinationPoint>Salagaon</DestinationPoint>
+  </Route>
+  <Route routeno="MJ006UP">
+  	<Number>MJ006UP</Number>
+  	<StartPoint>Badasahi</StartPoint>
+  	<DestinationPoint>Bhimda</DestinationPoint>
+  </Route>
+  <Route routeno="MJ007UP">
+  	<Number>MJ007UP</Number>
+  	<StartPoint>Badasahi</StartPoint>
+  	<DestinationPoint>Jadunathpur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ008UP">
+  	<Number>MJ008UP</Number>
+  	<StartPoint>Badasahi</StartPoint>
+  	<DestinationPoint>Gudialbandh(Balijoda Chhaka)</DestinationPoint>
+  </Route>
+  <Route routeno="MJ009UP">
+  	<Number>MJ009UP</Number>
+  	<StartPoint>Bahalda</StartPoint>
+  	<DestinationPoint>Anlajodi</DestinationPoint>
+  </Route>
+  <Route routeno="MJ010UP">
+  	<Number>MJ010UP</Number>
+  	<StartPoint>Bahalda</StartPoint>
+  	<DestinationPoint>Asana</DestinationPoint>
+  </Route>
+  <Route routeno="MJ011UP">
+  	<Number>MJ011UP</Number>
+  	<StartPoint>Bahalda</StartPoint>
+  	<DestinationPoint>Jashipur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ012UP">
+  	<Number>MJ012UP</Number>
+  	<StartPoint>Bangriposi</StartPoint>
+  	<DestinationPoint>Sorisapal</DestinationPoint>
+  </Route>
+  <Route routeno="MJ013UP">
+  	<Number>MJ013UP</Number>
+  	<StartPoint>Bangriposi</StartPoint>
+  	<DestinationPoint>Panasdiha</DestinationPoint>
+  </Route>
+  <Route routeno="MJ014UP">
+  	<Number>MJ014UP</Number>
+  	<StartPoint>Bangriposi</StartPoint>
+  	<DestinationPoint>Kalabadia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ015UP">
+  	<Number>MJ015UP</Number>
+  	<StartPoint>ବେତନଟୀ</StartPoint>
+  	<DestinationPoint>Kalama</DestinationPoint>
+  </Route>
+  <Route routeno="MJ016UP">
+  	<Number>MJ016UP</Number>
+  	<StartPoint>ବେତନଟୀ</StartPoint>
+  	<DestinationPoint>Mahisasole</DestinationPoint>
+  </Route>
+  <Route routeno="MJ017UP">
+  	<Number>MJ017UP</Number>
+  	<StartPoint>ବେତନଟୀ</StartPoint>
+  	<DestinationPoint>Ambagadia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ018UP">
+  	<Number>MJ018UP</Number>
+  	<StartPoint>Bijatala</StartPoint>
+  	<DestinationPoint>Chadeipahadi</DestinationPoint>
+  </Route>
+  <Route routeno="MJ019UP">
+  	<Number>MJ019UP</Number>
+  	<StartPoint>Bijatala</StartPoint>
+  	<DestinationPoint>Bankati</DestinationPoint>
+  </Route>
+  <Route routeno="MJ020UP">
+  	<Number>MJ020UP</Number>
+  	<StartPoint>Bijatala</StartPoint>
+  	<DestinationPoint>Raihari</DestinationPoint>
+  </Route>
+  <Route routeno="MJ021UP">
+  	<Number>MJ021UP</Number>
+  	<StartPoint>Bisoi</StartPoint>
+  	<DestinationPoint>Nuagan</DestinationPoint>
+  </Route>
+  <Route routeno="MJ022UP">
+  	<Number>MJ022UP</Number>
+  	<StartPoint>Bisoi</StartPoint>
+  	<DestinationPoint>Jagannathpur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ023UP">
+  	<Number>MJ023UP</Number>
+  	<StartPoint>Bisoi</StartPoint>
+  	<DestinationPoint>Jodia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ024UP">
+  	<Number>MJ024UP</Number>
+  	<StartPoint>Gopabandhunagar</StartPoint>
+  	<DestinationPoint>Pasuda</DestinationPoint>
+  </Route>
+  <Route routeno="MJ025UP">
+  	<Number>MJ025UP</Number>
+  	<StartPoint>Gopabandhunagar</StartPoint>
+  	<DestinationPoint>Arapata</DestinationPoint>
+  </Route>
+  <Route routeno="MJ026UP">
+  	<Number>MJ026UP</Number>
+  	<StartPoint>Gopabandhunagar</StartPoint>
+  	<DestinationPoint>Jayapur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ027UP">
+  	<Number>MJ027UP</Number>
+  	<StartPoint>Jamda</StartPoint>
+  	<DestinationPoint>Hensada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ028UP">
+  	<Number>MJ028UP</Number>
+  	<StartPoint>Jamda</StartPoint>
+  	<DestinationPoint>Badadundu</DestinationPoint>
+  </Route>
+  <Route routeno="MJ029UP">
+  	<Number>MJ029UP</Number>
+  	<StartPoint>Jamda</StartPoint>
+  	<DestinationPoint>Badkuleibira</DestinationPoint>
+  </Route>
+  <Route routeno="MJ030UP">
+  	<Number>MJ030UP</Number>
+  	<StartPoint>Jashipur</StartPoint>
+  	<DestinationPoint>Chakidi</DestinationPoint>
+  </Route>
+  <Route routeno="MJ031UP">
+  	<Number>MJ031UP</Number>
+  	<StartPoint>Jashipur</StartPoint>
+  	<DestinationPoint>Baunsnali</DestinationPoint>
+  </Route>
+  <Route routeno="MJ032UP">
+  	<Number>MJ032UP</Number>
+  	<StartPoint>Jashipur</StartPoint>
+  	<DestinationPoint>Begunia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ033UP">
+  	<Number>MJ033UP</Number>
+  	<StartPoint>Jashipur</StartPoint>
+  	<DestinationPoint>Dhalbani</DestinationPoint>
+  </Route>
+  <Route routeno="MJ034UP">
+  	<Number>MJ034UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Sripadmanjaripur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ035UP">
+  	<Number>MJ035UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Padmapokhari</DestinationPoint>
+  </Route>
+  <Route routeno="MJ036UP">
+  	<Number>MJ036UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Badgudgudia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ037UP">
+  	<Number>MJ037UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Chakradharpur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ038UP">
+  	<Number>MJ038UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Koolialam</DestinationPoint>
+  </Route>
+  <Route routeno="MJ039UP">
+  	<Number>MJ039UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Gandidhar</DestinationPoint>
+  </Route>
+  <Route routeno="MJ040UP">
+  	<Number>MJ040UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Ramchandrapur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ041UP">
+  	<Number>MJ041UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Saradiha</DestinationPoint>
+  </Route>
+  <Route routeno="MJ042UP">
+  	<Number>MJ042UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Bagadafa</DestinationPoint>
+  </Route>
+  <Route routeno="MJ043UP">
+  	<Number>MJ043UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Podadiha</DestinationPoint>
+  </Route>
+  <Route routeno="MJ044UP">
+  	<Number>MJ044UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint> Noto</DestinationPoint>
+  </Route>
+  <Route routeno="MJ045UP">
+  	<Number>MJ045UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Debala</DestinationPoint>
+  </Route>
+  <Route routeno="MJ046UP">
+  	<Number>MJ046UP</Number>
+  	<StartPoint>Karanjia</StartPoint>
+  	<DestinationPoint>Ghosda</DestinationPoint>
+  </Route>
+  <Route routeno="MJ047UP">
+  	<Number>MJ047UP</Number>
+  	<StartPoint>Karanjia</StartPoint>
+  	<DestinationPoint>Sarangagarh</DestinationPoint>
+  </Route>
+  <Route routeno="MJ048UP">
+  	<Number>MJ048UP</Number>
+  	<StartPoint>Karanjia</StartPoint>
+  	<DestinationPoint>Dudhiani</DestinationPoint>
+  </Route>
+  <Route routeno="MJ049UP">
+  	<Number>MJ049UP</Number>
+  	<StartPoint>Karanjia</StartPoint>
+  	<DestinationPoint>Dari</DestinationPoint>
+  </Route>
+  <Route routeno="MJ050UP">
+  	<Number>MJ050UP</Number>
+  	<StartPoint>Karanjia</StartPoint>
+  	<DestinationPoint>Patbil</DestinationPoint>
+  </Route>
+  <Route routeno="MJ051UP">
+  	<Number>MJ051UP</Number>
+  	<StartPoint>Karanjia</StartPoint>
+  	<DestinationPoint>Badagaon</DestinationPoint>
+  </Route>
+  <Route routeno="MJ052UP">
+  	<Number>MJ052UP</Number>
+  	<StartPoint>Khunta</StartPoint>
+  	<DestinationPoint>Dhanghera</DestinationPoint>
+  </Route>
+  <Route routeno="MJ053UP">
+  	<Number>MJ053UP</Number>
+  	<StartPoint>Khunta</StartPoint>
+  	<DestinationPoint>Dengam</DestinationPoint>
+  </Route>
+  <Route routeno="MJ054UP">
+  	<Number>MJ054UP</Number>
+  	<StartPoint>Khunta</StartPoint>
+  	<DestinationPoint>Sapanchua</DestinationPoint>
+  </Route>
+  <Route routeno="MJ055UP">
+  	<Number>MJ055UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Gangraj</DestinationPoint>
+  </Route>
+  <Route routeno="MJ056UP">
+  	<Number>MJ056UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Parulia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ057UP">
+  	<Number>MJ057UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Chandua</DestinationPoint>
+  </Route>
+  <Route routeno="MJ058UP">
+  	<Number>MJ058UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Dumurdiha</DestinationPoint>
+  </Route>
+  <Route routeno="MJ059UP">
+  	<Number>MJ059UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Gendapokhari</DestinationPoint>
+  </Route>
+  <Route routeno="MJ060UP">
+  	<Number>MJ060UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Patihinja</DestinationPoint>
+  </Route>
+  <Route routeno="MJ061UP">
+  	<Number>MJ061UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Sagarchhida</DestinationPoint>
+  </Route>
+  <Route routeno="MJ062UP">
+  	<Number>MJ062UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Marangtandi</DestinationPoint>
+  </Route>
+  <Route routeno="MJ063UP">
+  	<Number>MJ063UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint> Keutunimari</DestinationPoint>
+  </Route>
+  <Route routeno="MJ064UP">
+  	<Number>MJ064UP</Number>
+  	<StartPoint>Kusumi</StartPoint>
+  	<DestinationPoint>Mayurdar</DestinationPoint>
+  </Route>
+  <Route routeno="MJ065UP">
+  	<Number>MJ065UP</Number>
+  	<StartPoint>Kusumi</StartPoint>
+  	<DestinationPoint>Chuapani</DestinationPoint>
+  </Route>
+  <Route routeno="MJ066UP">
+  	<Number>MJ066UP</Number>
+  	<StartPoint>Kusumi</StartPoint>
+  	<DestinationPoint>Badhatnabeda</DestinationPoint>
+  </Route>
+  <Route routeno="MJ067UP">
+  	<Number>MJ067UP</Number>
+  	<StartPoint>Chitrada</StartPoint>
+  	<DestinationPoint>Sanmundhabani</DestinationPoint>
+  </Route>
+  <Route routeno="MJ068UP">
+  	<Number>MJ068UP</Number>
+  	<StartPoint>Chitrada</StartPoint>
+  	<DestinationPoint>Chikitamatia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ069UP">
+  	<Number>MJ069UP</Number>
+  	<StartPoint>Chitrada</StartPoint>
+  	<DestinationPoint>Sureidihi</DestinationPoint>
+  </Route>
+  <Route routeno="MJ070UP">
+  	<Number>MJ070UP</Number>
+  	<StartPoint>Rairangpur</StartPoint>
+  	<DestinationPoint>Naujoda</DestinationPoint>
+  </Route>
+  <Route routeno="MJ071UP">
+  	<Number>MJ071UP</Number>
+  	<StartPoint>Rairangpur</StartPoint>
+  	<DestinationPoint>Hatia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ072UP">
+  	<Number>MJ072UP</Number>
+  	<StartPoint>Rairangpur</StartPoint>
+  	<DestinationPoint>Guhaldangri</DestinationPoint>
+  </Route>
+  <Route routeno="MJ073UP">
+  	<Number>MJ073UP</Number>
+  	<StartPoint>Raruan</StartPoint>
+  	<DestinationPoint>Tilakuti</DestinationPoint>
+  </Route>
+  <Route routeno="MJ074UP">
+  	<Number>MJ074UP</Number>
+  	<StartPoint>Raruan</StartPoint>
+  	<DestinationPoint>Nuagan</DestinationPoint>
+  </Route>
+  <Route routeno="MJ075UP">
+  	<Number>MJ075UP</Number>
+  	<StartPoint>Raruan</StartPoint>
+  	<DestinationPoint>Narsandha</DestinationPoint>
+  </Route>
+  <Route routeno="MJ076UP">
+  	<Number>MJ076UP</Number>
+  	<StartPoint>Rasgobindopur</StartPoint>
+  	<DestinationPoint>Amarda</DestinationPoint>
+  </Route>
+  <Route routeno="MJ077UP">
+  	<Number>MJ077UP</Number>
+  	<StartPoint>Rasgobindopur</StartPoint>
+  	<DestinationPoint>Paksahi</DestinationPoint>
+  </Route>
+  <Route routeno="MJ078UP">
+  	<Number>MJ078UP</Number>
+  	<StartPoint>Rasgobindopur</StartPoint>
+  	<DestinationPoint>Kanpur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ079UP">
+  	<Number>MJ079UP</Number>
+  	<StartPoint>Saraskana</StartPoint>
+  	<DestinationPoint>Rajaloka</DestinationPoint>
+  </Route>
+  <Route routeno="MJ080UP">
+  	<Number>MJ080UP</Number>
+  	<StartPoint>Saraskana</StartPoint>
+  	<DestinationPoint>Bhursani</DestinationPoint>
+  </Route>
+  <Route routeno="MJ081UP">
+  	<Number>MJ081UP</Number>
+  	<StartPoint>Saraskana</StartPoint>
+  	<DestinationPoint>Paktia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ082UP">
+  	<Number>MJ082UP</Number>
+  	<StartPoint>Shamakhunta</StartPoint>
+  	<DestinationPoint>Bhalubasa</DestinationPoint>
+  </Route>
+  <Route routeno="MJ083UP">
+  	<Number>MJ083UP</Number>
+  	<StartPoint>Shamakhunta</StartPoint>
+  	<DestinationPoint>Lulung</DestinationPoint>
+  </Route>
+  <Route routeno="MJ084UP">
+  	<Number>MJ084UP</Number>
+  	<StartPoint>Shamakhunta</StartPoint>
+  	<DestinationPoint>Khandia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ085UP">
+  	<Number>MJ085UP</Number>
+  	<StartPoint>Shamakhunta</StartPoint>
+  	<DestinationPoint>Mahulia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ086UP">
+  	<Number>MJ086UP</Number>
+  	<StartPoint>Sukruli</StartPoint>
+  	<DestinationPoint>Kusunupur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ087UP">
+  	<Number>MJ087UP</Number>
+  	<StartPoint>Sukruli</StartPoint>
+  	<DestinationPoint>Dari Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="MJ088UP">
+  	<Number>MJ088UP</Number>
+  	<StartPoint>Sukruli</StartPoint>
+  	<DestinationPoint>Galu Sahi</DestinationPoint>
+  </Route>
+  <Route routeno="MJ089UP">
+  	<Number>MJ089UP</Number>
+  	<StartPoint>Suliapada</StartPoint>
+  	<DestinationPoint>Jhaliamara</DestinationPoint>
+  </Route>
+  <Route routeno="MJ090UP">
+  	<Number>MJ090UP</Number>
+  	<StartPoint>Suliapada</StartPoint>
+  	<DestinationPoint>Fania</DestinationPoint>
+  </Route>
+  <Route routeno="MJ091UP">
+  	<Number>MJ091UP</Number>
+  	<StartPoint>Suliapada</StartPoint>
+  	<DestinationPoint>Paktia</DestinationPoint>
+  </Route>
+  <Route routeno="MJ092UP">
+  	<Number>MJ092UP</Number>
+  	<StartPoint>Thakurmunda</StartPoint>
+  	<DestinationPoint>Bhaliadal</DestinationPoint>
+  </Route>
+  <Route routeno="MJ093UP">
+  	<Number>MJ093UP</Number>
+  	<StartPoint>Thakurmunda</StartPoint>
+  	<DestinationPoint>Salchua</DestinationPoint>
+  </Route>
+  <Route routeno="MJ094UP">
+  	<Number>MJ094UP</Number>
+  	<StartPoint>Thakurmunda</StartPoint>
+  	<DestinationPoint>Champajhar</DestinationPoint>
+  </Route>
+  <Route routeno="MJ095UP">
+  	<Number>MJ095UP</Number>
+  	<StartPoint>Thakurmunda</StartPoint>
+  	<DestinationPoint>Padiabeda</DestinationPoint>
+  </Route>
+  <Route routeno="MJ096UP">
+  	<Number>MJ096UP</Number>
+  	<StartPoint>Thakurmunda</StartPoint>
+  	<DestinationPoint>Kendujiani</DestinationPoint>
+  </Route>
+  <Route routeno="MJ097UP">
+  	<Number>MJ097UP</Number>
+  	<StartPoint>Thakurmunda</StartPoint>
+  	<DestinationPoint>Kesdiha</DestinationPoint>
+  </Route>
+  <Route routeno="MJ098UP">
+  	<Number>MJ098UP</Number>
+  	<StartPoint>Tiring</StartPoint>
+  	<DestinationPoint>Kulughutu</DestinationPoint>
+  </Route>
+  <Route routeno="MJ099UP">
+  	<Number>MJ099UP</Number>
+  	<StartPoint>Tiring</StartPoint>
+  	<DestinationPoint>Badnarini</DestinationPoint>
+  </Route>
+  <Route routeno="MJ100UP">
+  	<Number>MJ100UP</Number>
+  	<StartPoint>Tiring</StartPoint>
+  	<DestinationPoint>Rengalbeda</DestinationPoint>
+  </Route>
+  <Route routeno="MJ101UP">
+  	<Number>MJ101UP</Number>
+  	<StartPoint>Udala</StartPoint>
+  	<DestinationPoint>Patasanipur</DestinationPoint>
+  </Route>
+  <Route routeno="MJ102UP">
+  	<Number>MJ102UP</Number>
+  	<StartPoint>Udala</StartPoint>
+  	<DestinationPoint>Kundabai</DestinationPoint>
+  </Route>
+  <Route routeno="MJ103UP">
+  	<Number>MJ103UP</Number>
+  	<StartPoint>Udala</StartPoint>
+  	<DestinationPoint>Khaladi</DestinationPoint>
+  </Route>
+  <Route routeno="MJ201UP">
+  	<Number>MJ201UP</Number>
+  	<StartPoint>Badasahi</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ202UP">
+  	<Number>MJ202UP</Number>
+  	<StartPoint>Bahalda</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ203UP">
+  	<Number>MJ203UP</Number>
+  	<StartPoint>Bangriposi</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ204UP">
+  	<Number>MJ204UP</Number>
+  	<StartPoint>ବେତନଟୀ</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ205UP">
+  	<Number>MJ205UP</Number>
+  	<StartPoint>Bijatala</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ206UP">
+  	<Number>MJ206UP</Number>
+  	<StartPoint>Bisoi</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ207UP">
+  	<Number>MJ207UP</Number>
+  	<StartPoint>Gopabandhunagar</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ208UP">
+  	<Number>MJ208UP</Number>
+  	<StartPoint>Jamda</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ209UP">
+  	<Number>MJ209UP</Number>
+  	<StartPoint>Jashipur</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ210UP">
+  	<Number>MJ210UP</Number>
+  	<StartPoint>Kaptipada</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ211UP">
+  	<Number>MJ211UP</Number>
+  	<StartPoint>Karanjia</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ212UP">
+  	<Number>MJ212UP</Number>
+  	<StartPoint>Khunta</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ213UP">
+  	<Number>MJ213UP</Number>
+  	<StartPoint>Kuliana</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ214UP">
+  	<Number>MJ214UP</Number>
+  	<StartPoint>Kusumi</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ215UP">
+  	<Number>MJ215UP</Number>
+  	<StartPoint>Chitrada</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ216UP">
+  	<Number>MJ216UP</Number>
+  	<StartPoint>Rairangpur</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ217UP">
+  	<Number>MJ217UP</Number>
+  	<StartPoint>Raruan</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ218UP">
+  	<Number>MJ218UP</Number>
+  	<StartPoint>Rasgobindopur</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ219UP">
+  	<Number>MJ219UP</Number>
+  	<StartPoint>Saraskana</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ220UP">
+  	<Number>MJ220UP</Number>
+  	<StartPoint>Shamakhunta</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ221UP">
+  	<Number>MJ221UP</Number>
+  	<StartPoint>Sukruli</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ222UP">
+  	<Number>MJ222UP</Number>
+  	<StartPoint>Suliapada</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ223UP">
+  	<Number>MJ223UP</Number>
+  	<StartPoint>Suliapada</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ224UP">
+  	<Number>MJ224UP</Number>
+  	<StartPoint>Thakurmunda</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ225UP">
+  	<Number>MJ225UP</Number>
+  	<StartPoint>Tiring</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+  <Route routeno="MJ226UP">
+  	<Number>MJ226UP</Number>
+  	<StartPoint>Udala</StartPoint>
+  	<DestinationPoint>Baripada</DestinationPoint>
+  </Route>
+</Routes>
