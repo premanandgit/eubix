@@ -1,0 +1,432 @@
+<Routes>
+  <Route routeno="KD001UP">
+  	<Number>KD001UP</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Madhurakul Chhaka</DestinationPoint>
+  </Route>
+  <Route routeno="KD001DN">
+  	<Number>KD001DN</Number>
+  	<StartPoint>Madhurakul Chhaka</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD002UP">
+  	<Number>KD002UP</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Duhuria Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="KD002DN">
+  	<Number>KD002DN</Number>
+  	<StartPoint>Duhuria Chhak</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD003UP">
+  	<Number>KD003UP</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Sanamanatia GP </DestinationPoint>
+  </Route>
+  <Route routeno="KD003DN">
+  	<Number>KD003DN</Number>
+  	<StartPoint>Sanamanatia GP </StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD004UP">
+  	<Number>KD004UP</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Keshpur</DestinationPoint>
+  </Route>
+  <Route routeno="KD004DN">
+  	<Number>KD004DN</Number>
+  	<StartPoint>Keshpur</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD005UP">
+  	<Number>KD005UP</Number>
+  	<StartPoint>Rajnagar</StartPoint>
+  	<DestinationPoint>Nagad</DestinationPoint>
+  </Route>
+  <Route routeno="KD005DN">
+  	<Number>KD005DN</Number>
+  	<StartPoint>Nagad</StartPoint>
+  	<DestinationPoint>Rajnagar</DestinationPoint>
+  </Route>
+  <Route routeno="KD006UP">
+  	<Number>KD006UP</Number>
+  	<StartPoint>Rajnagar</StartPoint>
+  	<DestinationPoint>Bagapatia Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="KD006DN">
+  	<Number>KD006DN</Number>
+  	<StartPoint>Bagapatia Chhak</StartPoint>
+  	<DestinationPoint>Rajnagar</DestinationPoint>
+  </Route>
+  <Route routeno="KD007UP">
+  	<Number>KD007UP</Number>
+  	<StartPoint>Rajnagar</StartPoint>
+  	<DestinationPoint>Bhekta Culvert Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="KD007DN">
+  	<Number>KD007DN</Number>
+  	<StartPoint>Bhekta Culvert Chhak</StartPoint>
+  	<DestinationPoint>Rajnagar</DestinationPoint>
+  </Route>
+  <Route routeno="KD008UP">
+  	<Number>KD008UP</Number>
+  	<StartPoint>Rajnagar</StartPoint>
+  	<DestinationPoint>Bhekta Chhak Kuruma Pokhari</DestinationPoint>
+  </Route>
+  <Route routeno="KD008DN">
+  	<Number>KD008DN</Number>
+  	<StartPoint>Bhekta Chhak Kuruma Pokhari</StartPoint>
+  	<DestinationPoint>Rajnagar</DestinationPoint>
+  </Route>
+  <Route routeno="KD009UP">
+  	<Number>KD009UP</Number>
+  	<StartPoint>Rajnagar</StartPoint>
+  	<DestinationPoint>Badapalli</DestinationPoint>
+  </Route>
+  <Route routeno="KD009DN">
+  	<Number>KD009DN</Number>
+  	<StartPoint>Badapalli</StartPoint>
+  	<DestinationPoint>Rajnagar</DestinationPoint>
+  </Route>
+  <Route routeno="KD010UP">
+  	<Number>KD010UP</Number>
+  	<StartPoint>Rajkanika</StartPoint>
+  	<DestinationPoint>Charapada-Ganja</DestinationPoint>
+  </Route>
+  <Route routeno="KD010DN">
+  	<Number>KD010DN</Number>
+  	<StartPoint>Charapada-Ganja</StartPoint>
+  	<DestinationPoint>Rajkanika</DestinationPoint>
+  </Route>
+  <Route routeno="KD011UP">
+  	<Number>KD011UP</Number>
+  	<StartPoint>Rajkanika</StartPoint>
+  	<DestinationPoint>Padhanipada</DestinationPoint>
+  </Route>
+  <Route routeno="KD011DN">
+  	<Number>KD011DN</Number>
+  	<StartPoint>Padhanipada</StartPoint>
+  	<DestinationPoint>Rajkanika</DestinationPoint>
+  </Route>
+  <Route routeno="KD012UP">
+  	<Number>KD012UP</Number>
+  	<StartPoint>Rajkanika</StartPoint>
+  	<DestinationPoint>Jhadamala</DestinationPoint>
+  </Route>
+  <Route routeno="KD012DN">
+  	<Number>KD012DN</Number>
+  	<StartPoint>Jhadamala</StartPoint>
+  	<DestinationPoint>Rajkanika</DestinationPoint>
+  </Route>
+  <Route routeno="KD013UP">
+  	<Number>KD013UP</Number>
+  	<StartPoint>Rajkanika</StartPoint>
+  	<DestinationPoint>Charipokhari</DestinationPoint>
+  </Route>
+  <Route routeno="KD013DN">
+  	<Number>KD013DN</Number>
+  	<StartPoint>Charipokhari</StartPoint>
+  	<DestinationPoint>Rajkanika</DestinationPoint>
+  </Route>
+  <Route routeno="KD014UP">
+  	<Number>KD014UP</Number>
+  	<StartPoint>Pattamundai</StartPoint>
+  	<DestinationPoint>Dihapada </DestinationPoint>
+  </Route>
+  <Route routeno="KD014DN">
+  	<Number>KD014DN</Number>
+  	<StartPoint>Dihapada </StartPoint>
+  	<DestinationPoint>Pattamundai</DestinationPoint>
+  </Route>
+  <Route routeno="KD015UP">
+  	<Number>KD015UP</Number>
+  	<StartPoint>Pattamundai</StartPoint>
+  	<DestinationPoint>Badamohanpur college chhak</DestinationPoint>
+  </Route>
+  <Route routeno="KD015DN">
+  	<Number>KD015DN</Number>
+  	<StartPoint>Badamohanpur college chhak</StartPoint>
+  	<DestinationPoint>Pattamundai</DestinationPoint>
+  </Route>
+  <Route routeno="KD016UP">
+  	<Number>KD016UP</Number>
+  	<StartPoint>Pattamundai</StartPoint>
+  	<DestinationPoint>Kharada Chak</DestinationPoint>
+  </Route>
+  <Route routeno="KD016DN">
+  	<Number>KD016DN</Number>
+  	<StartPoint>Kharada Chak</StartPoint>
+  	<DestinationPoint>Pattamundai</DestinationPoint>
+  </Route>
+  <Route routeno="KD017UP">
+  	<Number>KD017UP</Number>
+  	<StartPoint>Pattamundai</StartPoint>
+  	<DestinationPoint>Alapua talapadia chhak</DestinationPoint>
+  </Route>
+  <Route routeno="KD017DN">
+  	<Number>KD017DN</Number>
+  	<StartPoint>Alapua talapadia chhak</StartPoint>
+  	<DestinationPoint>Pattamundai</DestinationPoint>
+  </Route>
+  <Route routeno="KD018UP">
+  	<Number>KD018UP</Number>
+  	<StartPoint>Marshaghai 1</StartPoint>
+  	<DestinationPoint>Bashpur Bridge (Jalapoka) </DestinationPoint>
+  </Route>
+  <Route routeno="KD018DN">
+  	<Number>KD018DN</Number>
+  	<StartPoint>Bashpur Bridge (Jalapoka) </StartPoint>
+  	<DestinationPoint>Marshaghai 1</DestinationPoint>
+  </Route>
+  <Route routeno="KD019UP">
+  	<Number>KD019UP</Number>
+  	<StartPoint>Marshaghai 1</StartPoint>
+  	<DestinationPoint>Mangarajpur</DestinationPoint>
+  </Route>
+  <Route routeno="KD019DN">
+  	<Number>KD019DN</Number>
+  	<StartPoint>Mangarajpur</StartPoint>
+  	<DestinationPoint>Marshaghai 1</DestinationPoint>
+  </Route>
+  <Route routeno="KD020UP">
+  	<Number>KD020UP</Number>
+  	<StartPoint>Marshaghai 1</StartPoint>
+  	<DestinationPoint>Akhuadakhini Chitrotala College </DestinationPoint>
+  </Route>
+  <Route routeno="KD020DN">
+  	<Number>KD020DN</Number>
+  	<StartPoint>Akhuadakhini Chitrotala College </StartPoint>
+  	<DestinationPoint>Marshaghai 1</DestinationPoint>
+  </Route>
+  <Route routeno="KD021UP">
+  	<Number>KD021UP</Number>
+  	<StartPoint>Mahakalpara</StartPoint>
+  	<DestinationPoint>Kharinasi Jetty</DestinationPoint>
+  </Route>
+  <Route routeno="KD021DN">
+  	<Number>KD021DN</Number>
+  	<StartPoint>Kharinasi Jetty</StartPoint>
+  	<DestinationPoint>Mahakalpara</DestinationPoint>
+  </Route>
+  <Route routeno="KD022UP">
+  	<Number>KD022UP</Number>
+  	<StartPoint>Mahakalpara</StartPoint>
+  	<DestinationPoint>Suniti Tapoban High School</DestinationPoint>
+  </Route>
+  <Route routeno="KD022DN">
+  	<Number>KD022DN</Number>
+  	<StartPoint>Suniti Tapoban High School</StartPoint>
+  	<DestinationPoint>Mahakalpara</DestinationPoint>
+  </Route>
+  <Route routeno="KD023UP">
+  	<Number>KD023UP</Number>
+  	<StartPoint>Mahakalpara</StartPoint>
+  	<DestinationPoint>Tikarapanga</DestinationPoint>
+  </Route>
+  <Route routeno="KD023DN">
+  	<Number>KD023DN</Number>
+  	<StartPoint>Tikarapanga</StartPoint>
+  	<DestinationPoint>Mahakalpara</DestinationPoint>
+  </Route>
+  <Route routeno="KD024UP">
+  	<Number>KD024UP</Number>
+  	<StartPoint>Mahakalpara</StartPoint>
+  	<DestinationPoint>Ostar</DestinationPoint>
+  </Route>
+  <Route routeno="KD024DN">
+  	<Number>KD024DN</Number>
+  	<StartPoint>Ostar</StartPoint>
+  	<DestinationPoint>Mahakalpara</DestinationPoint>
+  </Route>
+  <Route routeno="KD025UP">
+  	<Number>KD025UP</Number>
+  	<StartPoint>Garadpur</StartPoint>
+  	<DestinationPoint>Padmapuur sitaleswari </DestinationPoint>
+  </Route>
+  <Route routeno="KD025DN">
+  	<Number>KD025DN</Number>
+  	<StartPoint>Padmapuur sitaleswari </StartPoint>
+  	<DestinationPoint>Garadpur</DestinationPoint>
+  </Route>
+  <Route routeno="KD026UP">
+  	<Number>KD026UP</Number>
+  	<StartPoint>Garadpur</StartPoint>
+  	<DestinationPoint>Alijanga park</DestinationPoint>
+  </Route>
+  <Route routeno="KD026DN">
+  	<Number>KD026DN</Number>
+  	<StartPoint>Alijanga park</StartPoint>
+  	<DestinationPoint>Garadpur</DestinationPoint>
+  </Route>
+  <Route routeno="KD027UP">
+  	<Number>KD027UP</Number>
+  	<StartPoint>Garadpur</StartPoint>
+  	<DestinationPoint>Madhu sasan chhak</DestinationPoint>
+  </Route>
+  <Route routeno="KD027DN">
+  	<Number>KD027DN</Number>
+  	<StartPoint>Madhu sasan chhak</StartPoint>
+  	<DestinationPoint>Garadpur</DestinationPoint>
+  </Route>
+  <Route routeno="KD028UP">
+  	<Number>KD028UP</Number>
+  	<StartPoint>Garadpur</StartPoint>
+  	<DestinationPoint>Mahala</DestinationPoint>
+  </Route>
+  <Route routeno="KD028DN">
+  	<Number>KD028DN</Number>
+  	<StartPoint>Mahala</StartPoint>
+  	<DestinationPoint>Garadpur</DestinationPoint>
+  </Route>
+  <Route routeno="KD029UP">
+  	<Number>KD029UP</Number>
+  	<StartPoint>Derabishi</StartPoint>
+  	<DestinationPoint>JB Mul GP </DestinationPoint>
+  </Route>
+  <Route routeno="KD029DN">
+  	<Number>KD029DN</Number>
+  	<StartPoint>JB Mul GP </StartPoint>
+  	<DestinationPoint>Derabishi</DestinationPoint>
+  </Route>
+  <Route routeno="KD030UP">
+  	<Number>KD030UP</Number>
+  	<StartPoint>Derabishi</StartPoint>
+  	<DestinationPoint>Nachhipur</DestinationPoint>
+  </Route>
+  <Route routeno="KD030DN">
+  	<Number>KD030DN</Number>
+  	<StartPoint>Nachhipur</StartPoint>
+  	<DestinationPoint>Derabishi</DestinationPoint>
+  </Route>
+  <Route routeno="KD031UP">
+  	<Number>KD031UP</Number>
+  	<StartPoint>Derabishi</StartPoint>
+  	<DestinationPoint>Narasinghapur</DestinationPoint>
+  </Route>
+  <Route routeno="KD031DN">
+  	<Number>KD031DN</Number>
+  	<StartPoint>Narasinghapur</StartPoint>
+  	<DestinationPoint>Derabishi</DestinationPoint>
+  </Route>
+  <Route routeno="KD032UP">
+  	<Number>KD032UP</Number>
+  	<StartPoint>Derabishi</StartPoint>
+  	<DestinationPoint>Bangalisahi Chhak-Chhoti hat Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="KD032DN">
+  	<Number>KD032DN</Number>
+  	<StartPoint>Bangalisahi Chhak-Chhoti hat Chhak</StartPoint>
+  	<DestinationPoint>Derabishi</DestinationPoint>
+  </Route>
+  <Route routeno="KD033UP">
+  	<Number>KD033UP</Number>
+  	<StartPoint>Aul</StartPoint>
+  	<DestinationPoint>Bijayanagar bazar</DestinationPoint>
+  </Route>
+  <Route routeno="KD033DN">
+  	<Number>KD033DN</Number>
+  	<StartPoint>Bijayanagar bazar</StartPoint>
+  	<DestinationPoint>Aul</DestinationPoint>
+  </Route>
+  <Route routeno="KD034UP">
+  	<Number>KD034UP</Number>
+  	<StartPoint>Aul</StartPoint>
+  	<DestinationPoint>Sahira Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="KD034DN">
+  	<Number>KD034DN</Number>
+  	<StartPoint>Sahira Chhak</StartPoint>
+  	<DestinationPoint>Aul</DestinationPoint>
+  </Route>
+  <Route routeno="KD035UP">
+  	<Number>KD035UP</Number>
+  	<StartPoint>Aul</StartPoint>
+  	<DestinationPoint>Ganeswarpur Mohanpur </DestinationPoint>
+  </Route>
+  <Route routeno="KD035DN">
+  	<Number>KD035DN</Number>
+  	<StartPoint>Ganeswarpur Mohanpur </StartPoint>
+  	<DestinationPoint>Aul</DestinationPoint>
+  </Route>
+  <Route routeno="KD201UP">
+  	<Number>KD201UP</Number>
+  	<StartPoint>Aul</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD201DN">
+  	<Number>KD201DN</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Aul</DestinationPoint>
+  </Route>
+  <Route routeno="KD202UP">
+  	<Number>KD202UP</Number>
+  	<StartPoint>Rajkanika</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD202DN">
+  	<Number>KD202DN</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Rajkanika</DestinationPoint>
+  </Route>
+  <Route routeno="KD203UP">
+  	<Number>KD203UP</Number>
+  	<StartPoint>Marshaghai</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD203DN">
+  	<Number>KD203DN</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Marshaghai</DestinationPoint>
+  </Route>
+  <Route routeno="KD204UP">
+  	<Number>KD204UP</Number>
+  	<StartPoint>Pattamundai</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD204DN">
+  	<Number>KD204DN</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Pattamundai</DestinationPoint>
+  </Route>
+  <Route routeno="KD205UP">
+  	<Number>KD205UP</Number>
+  	<StartPoint>Rajnagar</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD205DN">
+  	<Number>KD205DN</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Rajnagar</DestinationPoint>
+  </Route>
+  <Route routeno="KD206UP">
+  	<Number>KD206UP</Number>
+  	<StartPoint>Mahakalpara</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD206DN">
+  	<Number>KD206DN</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Mahakalpara</DestinationPoint>
+  </Route>
+  <Route routeno="KD207UP">
+  	<Number>KD207UP</Number>
+  	<StartPoint>Derabish</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD207DN">
+  	<Number>KD207DN</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Derabish</DestinationPoint>
+  </Route>
+  <Route routeno="KD208UP">
+  	<Number>KD208UP</Number>
+  	<StartPoint>Garadpur</StartPoint>
+  	<DestinationPoint>Kendrapara</DestinationPoint>
+  </Route>
+  <Route routeno="KD208DN">
+  	<Number>KD208DN</Number>
+  	<StartPoint>Kendrapara</StartPoint>
+  	<DestinationPoint>Garadpur</DestinationPoint>
+  </Route>
+</Routes>
