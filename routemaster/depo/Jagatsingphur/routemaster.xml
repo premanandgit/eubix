@@ -1,543 +1,482 @@
 <Routes>
-  <Route routeno="DL001UP">
-  	<Number>DL001UP</Number>
-  	<StartPoint>Dhenaknal </StartPoint>
-  	<DestinationPoint> Balyamba</DestinationPoint>
-  </Route>
-  <Route routeno="DL002UP">
-  	<Number>DL002UP</Number>
-  	<StartPoint>Dhenaknal </StartPoint>
-  	<DestinationPoint> Paschimeswar Mandir</DestinationPoint>
-  </Route>
-  <Route routeno="DL003UP">
-  	<Number>DL003UP</Number>
-  	<StartPoint>Dhenaknal </StartPoint>
-  	<DestinationPoint> Regeda</DestinationPoint>
-  </Route>
-  <Route routeno="DL004UP">
-  	<Number>DL004UP</Number>
-  	<StartPoint>Dhenkanal </StartPoint>
-  	<DestinationPoint> Siaria</DestinationPoint>
-  </Route>
-  <Route routeno="DL005UP">
-  	<Number>DL005UP</Number>
-  	<StartPoint>Dhenkanal </StartPoint>
-  	<DestinationPoint> Nagiapasi</DestinationPoint>
-  </Route>
-  <Route routeno="DL006UP">
-  	<Number>DL006UP</Number>
-  	<StartPoint>Dhenkanal </StartPoint>
-  	<DestinationPoint> Bhojadeipur</DestinationPoint>
-  </Route>
-  <Route routeno="DL007UP">
-  	<Number>DL007UP</Number>
-  	<StartPoint>Dhenkanal </StartPoint>
-  	<DestinationPoint> Radhadeipur</DestinationPoint>
-  </Route>
-  <Route routeno="DL008UP">
-  	<Number>DL008UP</Number>
-  	<StartPoint>Dhenkanal </StartPoint>
-  	<DestinationPoint> Sogarpasi</DestinationPoint>
-  </Route>
-  <Route routeno="DL009UP">
-  	<Number>DL009UP</Number>
-  	<StartPoint>Dhenkanal </StartPoint>
-  	<DestinationPoint> Parikhela</DestinationPoint>
-  </Route>
-  <Route routeno="DL010UP">
-  	<Number>DL010UP</Number>
-  	<StartPoint>Bhuban </StartPoint>
-  	<DestinationPoint> Dighi</DestinationPoint>
-  </Route>
-  <Route routeno="DL011UP">
-  	<Number>DL011UP</Number>
-  	<StartPoint>Bhuban </StartPoint>
-  	<DestinationPoint> Jiral</DestinationPoint>
-  </Route>
-  <Route routeno="DL012UP">
-  	<Number>DL012UP</Number>
-  	<StartPoint>Bhuban </StartPoint>
-  	<DestinationPoint> Kanheipal</DestinationPoint>
-  </Route>
-  <Route routeno="DL013UP">
-  	<Number>DL013UP</Number>
-  	<StartPoint>Bhuban </StartPoint>
-  	<DestinationPoint> Odisha</DestinationPoint>
-  </Route>
-  <Route routeno="DL014UP">
-  	<Number>DL014UP</Number>
-  	<StartPoint>Bhuban </StartPoint>
-  	<DestinationPoint> Mrudanga</DestinationPoint>
-  </Route>
-  <Route routeno="DL015UP">
-  	<Number>DL015UP</Number>
-  	<StartPoint>Bhuban </StartPoint>
-  	<DestinationPoint> Aantapur</DestinationPoint>
-  </Route>
-  <Route routeno="DL016UP">
-  	<Number>DL016UP</Number>
-  	<StartPoint>Bhuban </StartPoint>
-  	<DestinationPoint> Jaypur</DestinationPoint>
-  </Route>
-  <Route routeno="DL017UP">
-  	<Number>DL017UP</Number>
-  	<StartPoint>Gondia </StartPoint>
-  	<DestinationPoint> Karamul</DestinationPoint>
-  </Route>
-  <Route routeno="DL018UP">
-  	<Number>DL018UP</Number>
-  	<StartPoint>Purakohoj </StartPoint>
-  	<DestinationPoint> Kaluria</DestinationPoint>
-  </Route>
-  <Route routeno="DL019UP">
-  	<Number>DL019UP</Number>
-  	<StartPoint>Purakhoj </StartPoint>
-  	<DestinationPoint> Sorisiapada</DestinationPoint>
-  </Route>
-  <Route routeno="DL020UP">
-  	<Number>DL020UP</Number>
-  	<StartPoint>Gondia </StartPoint>
-  	<DestinationPoint> Khankira</DestinationPoint>
-  </Route>
-  <Route routeno="DL021UP">
-  	<Number>DL021UP</Number>
-  	<StartPoint>Gondia </StartPoint>
-  	<DestinationPoint> Digambarpur</DestinationPoint>
-  </Route>
-  <Route routeno="DL022UP">
-  	<Number>DL022UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Bampa</DestinationPoint>
-  </Route>
-  <Route routeno="DL023UP">
-  	<Number>DL023UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Sanjapada</DestinationPoint>
-  </Route>
-  <Route routeno="DL024UP">
-  	<Number>DL024UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Paik Purunakote</DestinationPoint>
-  </Route>
-  <Route routeno="DL025UP">
-  	<Number>DL025UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Hatura </DestinationPoint>
-  </Route>
-  <Route routeno="DL026UP">
-  	<Number>DL026UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Thokar</DestinationPoint>
-  </Route>
-  <Route routeno="DL027UP">
-  	<Number>DL027UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Jorada</DestinationPoint>
-  </Route>
-  <Route routeno="DL028UP">
-  	<Number>DL028UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Khaliborei</DestinationPoint>
-  </Route>
-  <Route routeno="DL029UP">
-  	<Number>DL029UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Buhalipal</DestinationPoint>
-  </Route>
-  <Route routeno="DL030UP">
-  	<Number>DL030UP</Number>
-  	<StartPoint>Kamakhyanagar </StartPoint>
-  	<DestinationPoint> Kantapal</DestinationPoint>
-  </Route>
-  <Route routeno="DL031UP">
-  	<Number>DL031UP</Number>
-  	<StartPoint>Kamakhyanagar </StartPoint>
-  	<DestinationPoint> Badasuanlo</DestinationPoint>
-  </Route>
-  <Route routeno="DL032UP">
-  	<Number>DL032UP</Number>
-  	<StartPoint>Kamakhyanagar </StartPoint>
-  	<DestinationPoint> Kantioputashi</DestinationPoint>
-  </Route>
-  <Route routeno="DL033UP">
-  	<Number>DL033UP</Number>
-  	<StartPoint>Kamakhyanagar </StartPoint>
-  	<DestinationPoint> Sogar</DestinationPoint>
-  </Route>
-  <Route routeno="DL034UP">
-  	<Number>DL034UP</Number>
-  	<StartPoint>Kamakhyanagar </StartPoint>
-  	<DestinationPoint> Bankual</DestinationPoint>
-  </Route>
-  <Route routeno="DL035UP">
-  	<Number>DL035UP</Number>
-  	<StartPoint>Kankadahad </StartPoint>
-  	<DestinationPoint> Sundarmundi</DestinationPoint>
-  </Route>
-  <Route routeno="DL036UP">
-  	<Number>DL036UP</Number>
-  	<StartPoint>Kankadahad </StartPoint>
-  	<DestinationPoint> Kuturia</DestinationPoint>
-  </Route>
-  <Route routeno="DL037UP">
-  	<Number>DL037UP</Number>
-  	<StartPoint>Kankadahad </StartPoint>
-  	<DestinationPoint> Biribolel</DestinationPoint>
-  </Route>
-  <Route routeno="DL038UP">
-  	<Number>DL038UP</Number>
-  	<StartPoint>Kankadahad </StartPoint>
-  	<DestinationPoint> Maruabil</DestinationPoint>
-  </Route>
-  <Route routeno="DL039UP">
-  	<Number>DL039UP</Number>
-  	<StartPoint>Kankadahad </StartPoint>
-  	<DestinationPoint> Raibol</DestinationPoint>
-  </Route>
-  <Route routeno="DL040UP">
-  	<Number>DL040UP</Number>
-  	<StartPoint>Kankadahad </StartPoint>
-  	<DestinationPoint> Bahadapal</DestinationPoint>
-  </Route>
-  <Route routeno="DL041UP">
-  	<Number>DL041UP</Number>
-  	<StartPoint>Kankadahad </StartPoint>
-  	<DestinationPoint> Rodanga</DestinationPoint>
-  </Route>
-  <Route routeno="DL042UP">
-  	<Number>DL042UP</Number>
-  	<StartPoint>Odapada </StartPoint>
-  	<DestinationPoint> Kamalanga</DestinationPoint>
-  </Route>
-  <Route routeno="DL043UP">
-  	<Number>DL043UP</Number>
-  	<StartPoint>Odapada </StartPoint>
-  	<DestinationPoint> Motanga</DestinationPoint>
-  </Route>
-  <Route routeno="DL044UP">
-  	<Number>DL044UP</Number>
-  	<StartPoint>Odapada </StartPoint>
-  	<DestinationPoint> Nimidha</DestinationPoint>
-  </Route>
-  <Route routeno="DL045UP">
-  	<Number>DL045UP</Number>
-  	<StartPoint>Odapada </StartPoint>
-  	<DestinationPoint> Ghatipira Chhak</DestinationPoint>
-  </Route>
-  <Route routeno="DL046UP">
-  	<Number>DL046UP</Number>
-  	<StartPoint>Odapada </StartPoint>
-  	<DestinationPoint> Siminia</DestinationPoint>
-  </Route>
-  <Route routeno="DL047UP">
-  	<Number>DL047UP</Number>
-  	<StartPoint>Odapada </StartPoint>
-  	<DestinationPoint> Gundichapada</DestinationPoint>
-  </Route>
-  <Route routeno="DL048UP">
-  	<Number>DL048UP</Number>
-  	<StartPoint>Odapada </StartPoint>
-  	<DestinationPoint> Kalanaga</DestinationPoint>
-  </Route>
-  <Route routeno="DL049UP">
-  	<Number>DL049UP</Number>
-  	<StartPoint>Parjanaga </StartPoint>
-  	<DestinationPoint> Jayapurakateni</DestinationPoint>
-  </Route>
-  <Route routeno="DL050UP">
-  	<Number>DL050UP</Number>
-  	<StartPoint>Parjanaga </StartPoint>
-  	<DestinationPoint> Ambapalas</DestinationPoint>
-  </Route>
-  <Route routeno="DL051UP">
-  	<Number>DL051UP</Number>
-  	<StartPoint>Parjanaga </StartPoint>
-  	<DestinationPoint> Manikamara</DestinationPoint>
-  </Route>
-  <Route routeno="DL052UP">
-  	<Number>DL052UP</Number>
-  	<StartPoint>Parjanaga </StartPoint>
-  	<DestinationPoint> Kankili</DestinationPoint>
-  </Route>
-  <Route routeno="DL053UP">
-  	<Number>DL053UP</Number>
-  	<StartPoint>Parjanaga </StartPoint>
-  	<DestinationPoint> Chandapur</DestinationPoint>
-  </Route>
-  <Route routeno="DL201UP">
-  	<Number>DL201UP</Number>
-  	<StartPoint>Bhuban </StartPoint>
-  	<DestinationPoint> Dhenkanal</DestinationPoint>
-  </Route>
-  <Route routeno="DL202UP">
-  	<Number>DL202UP</Number>
-  	<StartPoint>Gandia </StartPoint>
-  	<DestinationPoint> Dhenkanal</DestinationPoint>
-  </Route>
-  <Route routeno="DL203UP">
-  	<Number>DL203UP</Number>
-  	<StartPoint>Hindol </StartPoint>
-  	<DestinationPoint> Dhenkanal</DestinationPoint>
-  </Route>
-  <Route routeno="DL204UP">
-  	<Number>DL204UP</Number>
-  	<StartPoint>Parjang </StartPoint>
-  	<DestinationPoint> Dhenkanal</DestinationPoint>
-  </Route>
-  <Route routeno="DL205UP">
-  	<Number>DL205UP</Number>
-  	<StartPoint>Odapada </StartPoint>
-  	<DestinationPoint> Dhenkanal</DestinationPoint>
-  </Route>
-  <Route routeno="DL206UP">
-  	<Number>DL206UP</Number>
-  	<StartPoint>Kamakhyanagar </StartPoint>
-  	<DestinationPoint> Dhenkanal</DestinationPoint>
-  </Route>
-  <Route routeno="DL207UP">
-  	<Number>DL207UP</Number>
-  	<StartPoint>Kankadahad </StartPoint>
-  	<DestinationPoint> Dhenkanal</DestinationPoint>
-  </Route>
-</Routes>
   <Route routeno="JP001UP">
   	<Number>JP001UP</Number>
   	<StartPoint>Jagatsinghpur</StartPoint>
   	<DestinationPoint>Satyapriya chhak (Birabara patna)</DestinationPoint>
+  </Route>
+  <Route routeno="JP001DN">
+  	<Number>JP001DN</Number>
+  	<StartPoint>Satyapriya chhak (Birabara patna)</StartPoint>
+  	<DestinationPoint>Jagatsinghpur</DestinationPoint>
   </Route>
   <Route routeno="JP002UP">
   	<Number>JP002UP</Number>
   	<StartPoint>Jagatsinghpur</StartPoint>
   	<DestinationPoint>Jaahnpur</DestinationPoint>
   </Route>
+  <Route routeno="JP002DN">
+  	<Number>JP002DN</Number>
+  	<StartPoint>Jaahnpur</StartPoint>
+  	<DestinationPoint>Jagatsinghpur</DestinationPoint>
+  </Route>
   <Route routeno="JP003UP">
   	<Number>JP003UP</Number>
   	<StartPoint>Jagatsinghpur</StartPoint>
   	<DestinationPoint>Madhusudanpur sashan</DestinationPoint>
+  </Route>
+  <Route routeno="JP003DN">
+  	<Number>JP003DN</Number>
+  	<StartPoint>Madhusudanpur sashan</StartPoint>
+  	<DestinationPoint>Jagatsinghpur</DestinationPoint>
   </Route>
   <Route routeno="JP004UP">
   	<Number>JP004UP</Number>
   	<StartPoint>Jagatsinghpur</StartPoint>
   	<DestinationPoint>Mahira UP School</DestinationPoint>
   </Route>
+  <Route routeno="JP004DN">
+  	<Number>JP004DN</Number>
+  	<StartPoint>Mahira UP School</StartPoint>
+  	<DestinationPoint>Jagatsinghpur</DestinationPoint>
+  </Route>
   <Route routeno="JP005UP">
   	<Number>JP005UP</Number>
   	<StartPoint>Jagatsinghpur</StartPoint>
   	<DestinationPoint>  Siddhal Jagannath Temple </DestinationPoint>
+  </Route>
+  <Route routeno="JP005DN">
+  	<Number>JP005DN</Number>
+  	<StartPoint>  Siddhal Jagannath Temple </StartPoint>
+  	<DestinationPoint>Jagatsinghpur</DestinationPoint>
   </Route>
   <Route routeno="JP006UP">
   	<Number>JP006UP</Number>
   	<StartPoint>Balikuda</StartPoint>
   	<DestinationPoint> Bandara</DestinationPoint>
   </Route>
+  <Route routeno="JP006DN">
+  	<Number>JP006DN</Number>
+  	<StartPoint> Bandara</StartPoint>
+  	<DestinationPoint>Balikuda</DestinationPoint>
+  </Route>
   <Route routeno="JP007UP">
   	<Number>JP007UP</Number>
   	<StartPoint>Balikuda</StartPoint>
   	<DestinationPoint>Narendra Chaka</DestinationPoint>
+  </Route>
+  <Route routeno="JP007DN">
+  	<Number>JP007DN</Number>
+  	<StartPoint>Narendra Chaka</StartPoint>
+  	<DestinationPoint>Balikuda</DestinationPoint>
   </Route>
   <Route routeno="JP008UP">
   	<Number>JP008UP</Number>
   	<StartPoint>Balikuda</StartPoint>
   	<DestinationPoint>Bahakan Chaka</DestinationPoint>
   </Route>
+  <Route routeno="JP008DN">
+  	<Number>JP008DN</Number>
+  	<StartPoint>Bahakan Chaka</StartPoint>
+  	<DestinationPoint>Balikuda</DestinationPoint>
+  </Route>
   <Route routeno="JP009UP">
   	<Number>JP009UP</Number>
   	<StartPoint>Balikuda</StartPoint>
   	<DestinationPoint>Banambar Gadi</DestinationPoint>
+  </Route>
+  <Route routeno="JP009DN">
+  	<Number>JP009DN</Number>
+  	<StartPoint>Banambar Gadi</StartPoint>
+  	<DestinationPoint>Balikuda</DestinationPoint>
   </Route>
   <Route routeno="JP010UP">
   	<Number>JP010UP</Number>
   	<StartPoint>Balikuda</StartPoint>
   	<DestinationPoint>Krushnadaspur GP Office</DestinationPoint>
   </Route>
+  <Route routeno="JP010DN">
+  	<Number>JP010DN</Number>
+  	<StartPoint>Krushnadaspur GP Office</StartPoint>
+  	<DestinationPoint>Balikuda</DestinationPoint>
+  </Route>
   <Route routeno="JP011UP">
   	<Number>JP011UP</Number>
   	<StartPoint>Balikuda</StartPoint>
   	<DestinationPoint>Tarasahi</DestinationPoint>
+  </Route>
+  <Route routeno="JP011DN">
+  	<Number>JP011DN</Number>
+  	<StartPoint>Tarasahi</StartPoint>
+  	<DestinationPoint>Balikuda</DestinationPoint>
   </Route>
   <Route routeno="JP012UP">
   	<Number>JP012UP</Number>
   	<StartPoint>Balikuda</StartPoint>
   	<DestinationPoint>Sahada pola</DestinationPoint>
   </Route>
+  <Route routeno="JP012DN">
+  	<Number>JP012DN</Number>
+  	<StartPoint>Sahada pola</StartPoint>
+  	<DestinationPoint>Balikuda</DestinationPoint>
+  </Route>
   <Route routeno="JP013UP">
   	<Number>JP013UP</Number>
   	<StartPoint>Biridi</StartPoint>
   	<DestinationPoint>Bagalapur bandha</DestinationPoint>
+  </Route>
+  <Route routeno="JP013DN">
+  	<Number>JP013DN</Number>
+  	<StartPoint>Bagalapur bandha</StartPoint>
+  	<DestinationPoint>Biridi</DestinationPoint>
   </Route>
   <Route routeno="JP014UP">
   	<Number>JP014UP</Number>
   	<StartPoint>Biridi</StartPoint>
   	<DestinationPoint>Maindipur park chhaka</DestinationPoint>
   </Route>
+  <Route routeno="JP014DN">
+  	<Number>JP014DN</Number>
+  	<StartPoint>Maindipur park chhaka</StartPoint>
+  	<DestinationPoint>Biridi</DestinationPoint>
+  </Route>
   <Route routeno="JP015UP">
   	<Number>JP015UP</Number>
   	<StartPoint>Biridi</StartPoint>
   	<DestinationPoint>Arana</DestinationPoint>
+  </Route>
+  <Route routeno="JP015DN">
+  	<Number>JP015DN</Number>
+  	<StartPoint>Arana</StartPoint>
+  	<DestinationPoint>Biridi</DestinationPoint>
   </Route>
   <Route routeno="JP016UP">
   	<Number>JP016UP</Number>
   	<StartPoint>Biridi</StartPoint>
   	<DestinationPoint>Beleswarpur  Mallick sahi</DestinationPoint>
   </Route>
+  <Route routeno="JP016DN">
+  	<Number>JP016DN</Number>
+  	<StartPoint>Beleswarpur  Mallick sahi</StartPoint>
+  	<DestinationPoint>Biridi</DestinationPoint>
+  </Route>
   <Route routeno="JP017UP">
   	<Number>JP017UP</Number>
   	<StartPoint>Biridi</StartPoint>
   	<DestinationPoint>Sathibhuni Chhaka/ Kalantira</DestinationPoint>
+  </Route>
+  <Route routeno="JP017DN">
+  	<Number>JP017DN</Number>
+  	<StartPoint>Sathibhuni Chhaka/ Kalantira</StartPoint>
+  	<DestinationPoint>Biridi</DestinationPoint>
   </Route>
   <Route routeno="JP018UP">
   	<Number>JP018UP</Number>
   	<StartPoint>Erasama New Bus Stand</StartPoint>
   	<DestinationPoint>Sarabanta Mandira Chhaka</DestinationPoint>
   </Route>
+  <Route routeno="JP018DN">
+  	<Number>JP018DN</Number>
+  	<StartPoint>Sarabanta Mandira Chhaka</StartPoint>
+  	<DestinationPoint>Erasama New Bus Stand</DestinationPoint>
+  </Route>
   <Route routeno="JP019UP">
   	<Number>JP019UP</Number>
   	<StartPoint>Erasama New Bus Stand</StartPoint>
   	<DestinationPoint>Ramatara Chhaka </DestinationPoint>
+  </Route>
+  <Route routeno="JP019DN">
+  	<Number>JP019DN</Number>
+  	<StartPoint>Ramatara Chhaka </StartPoint>
+  	<DestinationPoint>Erasama New Bus Stand</DestinationPoint>
   </Route>
   <Route routeno="JP020UP">
   	<Number>JP020UP</Number>
   	<StartPoint>Erasama New Bus Stand</StartPoint>
   	<DestinationPoint>Dhinkia</DestinationPoint>
   </Route>
+  <Route routeno="JP020DN">
+  	<Number>JP020DN</Number>
+  	<StartPoint>Dhinkia</StartPoint>
+  	<DestinationPoint>Erasama New Bus Stand</DestinationPoint>
+  </Route>
   <Route routeno="JP021UP">
   	<Number>JP021UP</Number>
   	<StartPoint>Erasama New Bus Stand</StartPoint>
   	<DestinationPoint>Tikarapada chhak</DestinationPoint>
+  </Route>
+  <Route routeno="JP021DN">
+  	<Number>JP021DN</Number>
+  	<StartPoint>Tikarapada chhak</StartPoint>
+  	<DestinationPoint>Erasama New Bus Stand</DestinationPoint>
   </Route>
   <Route routeno="JP022UP">
   	<Number>JP022UP</Number>
   	<StartPoint>Erasama New Bus Stand</StartPoint>
   	<DestinationPoint>Kunjakothi </DestinationPoint>
   </Route>
+  <Route routeno="JP022DN">
+  	<Number>JP022DN</Number>
+  	<StartPoint>Kunjakothi </StartPoint>
+  	<DestinationPoint>Erasama New Bus Stand</DestinationPoint>
+  </Route>
   <Route routeno="JP023UP">
   	<Number>JP023UP</Number>
   	<StartPoint>Kujanga</StartPoint>
   	<DestinationPoint>Sana Balikani Pry.School</DestinationPoint>
+  </Route>
+  <Route routeno="JP023DN">
+  	<Number>JP023DN</Number>
+  	<StartPoint>Sana Balikani Pry.School</StartPoint>
+  	<DestinationPoint>Kujanga</DestinationPoint>
   </Route>
   <Route routeno="JP024UP">
   	<Number>JP024UP</Number>
   	<StartPoint>Kujanga</StartPoint>
   	<DestinationPoint>Bagadia School</DestinationPoint>
   </Route>
+  <Route routeno="JP024DN">
+  	<Number>JP024DN</Number>
+  	<StartPoint>Bagadia School</StartPoint>
+  	<DestinationPoint>Kujanga</DestinationPoint>
+  </Route>
   <Route routeno="JP025UP">
   	<Number>JP025UP</Number>
   	<StartPoint>Kujanga</StartPoint>
   	<DestinationPoint>Mangarajpur GP office</DestinationPoint>
+  </Route>
+  <Route routeno="JP025DN">
+  	<Number>JP025DN</Number>
+  	<StartPoint>Mangarajpur GP office</StartPoint>
+  	<DestinationPoint>Kujanga</DestinationPoint>
   </Route>
   <Route routeno="JP026UP">
   	<Number>JP026UP</Number>
   	<StartPoint>Kujanga</StartPoint>
   	<DestinationPoint>Pandua High School</DestinationPoint>
   </Route>
+  <Route routeno="JP026DN">
+  	<Number>JP026DN</Number>
+  	<StartPoint>Pandua High School</StartPoint>
+  	<DestinationPoint>Kujanga</DestinationPoint>
+  </Route>
   <Route routeno="JP027UP">
   	<Number>JP027UP</Number>
   	<StartPoint>Kujanga</StartPoint>
   	<DestinationPoint>Gorada </DestinationPoint>
+  </Route>
+  <Route routeno="JP027DN">
+  	<Number>JP027DN</Number>
+  	<StartPoint>Gorada </StartPoint>
+  	<DestinationPoint>Kujanga</DestinationPoint>
   </Route>
   <Route routeno="JP028UP">
   	<Number>JP028UP</Number>
   	<StartPoint>Kujanga</StartPoint>
   	<DestinationPoint>Agapal GP office</DestinationPoint>
   </Route>
+  <Route routeno="JP028DN">
+  	<Number>JP028DN</Number>
+  	<StartPoint>Agapal GP office</StartPoint>
+  	<DestinationPoint>Kujanga</DestinationPoint>
+  </Route>
   <Route routeno="JP029UP">
   	<Number>JP029UP</Number>
   	<StartPoint>Naugan </StartPoint>
   	<DestinationPoint>Erada Balisahi </DestinationPoint>
+  </Route>
+  <Route routeno="JP029DN">
+  	<Number>JP029DN</Number>
+  	<StartPoint>Erada Balisahi </StartPoint>
+  	<DestinationPoint>Naugan </DestinationPoint>
   </Route>
   <Route routeno="JP030UP">
   	<Number>JP030UP</Number>
   	<StartPoint>Naugan </StartPoint>
   	<DestinationPoint>Chandrapur</DestinationPoint>
   </Route>
+  <Route routeno="JP030DN">
+  	<Number>JP030DN</Number>
+  	<StartPoint>Chandrapur</StartPoint>
+  	<DestinationPoint>Naugan </DestinationPoint>
+  </Route>
   <Route routeno="JP031UP">
   	<Number>JP031UP</Number>
   	<StartPoint>Naugan </StartPoint>
   	<DestinationPoint>Nuapatana Pol</DestinationPoint>
+  </Route>
+  <Route routeno="JP031DN">
+  	<Number>JP031DN</Number>
+  	<StartPoint>Nuapatana Pol</StartPoint>
+  	<DestinationPoint>Naugan </DestinationPoint>
   </Route>
   <Route routeno="JP032UP">
   	<Number>JP032UP</Number>
   	<StartPoint>Naugan </StartPoint>
   	<DestinationPoint>Dabar Chhak </DestinationPoint>
   </Route>
+  <Route routeno="JP032DN">
+  	<Number>JP032DN</Number>
+  	<StartPoint>Dabar Chhak </StartPoint>
+  	<DestinationPoint>Naugan </DestinationPoint>
+  </Route>
   <Route routeno="JP033UP">
   	<Number>JP033UP</Number>
   	<StartPoint>Bijupattanaik Chhaka</StartPoint>
   	<DestinationPoint>Tarikund Bazar</DestinationPoint>
+  </Route>
+  <Route routeno="JP033DN">
+  	<Number>JP033DN</Number>
+  	<StartPoint>Tarikund Bazar</StartPoint>
+  	<DestinationPoint>Bijupattanaik Chhaka</DestinationPoint>
   </Route>
   <Route routeno="JP034UP">
   	<Number>JP034UP</Number>
   	<StartPoint>Bijupattanaik Chhaka</StartPoint>
   	<DestinationPoint>Jira chhaka</DestinationPoint>
   </Route>
+  <Route routeno="JP034DN">
+  	<Number>JP034DN</Number>
+  	<StartPoint>Jira chhaka</StartPoint>
+  	<DestinationPoint>Bijupattanaik Chhaka</DestinationPoint>
+  </Route>
   <Route routeno="JP035UP">
   	<Number>JP035UP</Number>
   	<StartPoint>Tirtol Depo </StartPoint>
   	<DestinationPoint>Garam (Indira Chaka)</DestinationPoint>
+  </Route>
+  <Route routeno="JP035DN">
+  	<Number>JP035DN</Number>
+  	<StartPoint>Garam (Indira Chaka)</StartPoint>
+  	<DestinationPoint>Tirtol Depo </DestinationPoint>
   </Route>
   <Route routeno="JP036UP">
   	<Number>JP036UP</Number>
   	<StartPoint>Tirtol Depo </StartPoint>
   	<DestinationPoint>Krishnanandapur PHC Chaka</DestinationPoint>
   </Route>
+  <Route routeno="JP036DN">
+  	<Number>JP036DN</Number>
+  	<StartPoint>Krishnanandapur PHC Chaka</StartPoint>
+  	<DestinationPoint>Tirtol Depo </DestinationPoint>
+  </Route>
   <Route routeno="JP037UP">
   	<Number>JP037UP</Number>
   	<StartPoint>Tirtol Depo </StartPoint>
   	<DestinationPoint>Gopalpur hata</DestinationPoint>
+  </Route>
+  <Route routeno="JP037DN">
+  	<Number>JP037DN</Number>
+  	<StartPoint>Gopalpur hata</StartPoint>
+  	<DestinationPoint>Tirtol Depo </DestinationPoint>
   </Route>
   <Route routeno="JP038UP">
   	<Number>JP038UP</Number>
   	<StartPoint>Tirtol Depo </StartPoint>
   	<DestinationPoint>Kosti</DestinationPoint>
   </Route>
+  <Route routeno="JP038DN">
+  	<Number>JP038DN</Number>
+  	<StartPoint>Kosti</StartPoint>
+  	<DestinationPoint>Tirtol Depo </DestinationPoint>
+  </Route>
   <Route routeno="JP039UP">
   	<Number>JP039UP</Number>
   	<StartPoint>Tirtol Depo </StartPoint>
   	<DestinationPoint>Sanara chaka</DestinationPoint>
+  </Route>
+  <Route routeno="JP039DN">
+  	<Number>JP039DN</Number>
+  	<StartPoint>Sanara chaka</StartPoint>
+  	<DestinationPoint>Tirtol Depo </DestinationPoint>
   </Route>
   <Route routeno="JP040UP">
   	<Number>JP040UP</Number>
   	<StartPoint>Tirtol Depo </StartPoint>
   	<DestinationPoint>Sirasta chaka </DestinationPoint>
   </Route>
+  <Route routeno="JP040DN">
+  	<Number>JP040DN</Number>
+  	<StartPoint>Sirasta chaka </StartPoint>
+  	<DestinationPoint>Tirtol Depo </DestinationPoint>
+  </Route>
   <Route routeno="JP201UP">
   	<Number>JP201UP</Number>
   	<StartPoint>Balikuda</StartPoint>
   	<DestinationPoint>Jagatsinghpur (Jogadhari Bus stand)</DestinationPoint>
+  </Route>
+  <Route routeno="JP201DN">
+  	<Number>JP201DN</Number>
+  	<StartPoint>Jagatsinghpur (Jogadhari Bus stand)</StartPoint>
+  	<DestinationPoint>Balikuda</DestinationPoint>
   </Route>
   <Route routeno="JP202UP">
   	<Number>JP202UP</Number>
   	<StartPoint>Biridi</StartPoint>
   	<DestinationPoint> (Jogadhari Bus stand)</DestinationPoint>
   </Route>
+  <Route routeno="JP202DN">
+  	<Number>JP202DN</Number>
+  	<StartPoint> (Jogadhari Bus stand)</StartPoint>
+  	<DestinationPoint>Biridi</DestinationPoint>
+  </Route>
   <Route routeno="JP203UP">
   	<Number>JP203UP</Number>
   	<StartPoint>Erasama</StartPoint>
   	<DestinationPoint>Jagatsinghpur (Jogadhari Bus stand)</DestinationPoint>
+  </Route>
+  <Route routeno="JP203DN">
+  	<Number>JP203DN</Number>
+  	<StartPoint>Jagatsinghpur (Jogadhari Bus stand)</StartPoint>
+  	<DestinationPoint>Erasama</DestinationPoint>
   </Route>
   <Route routeno="JP204UP">
   	<Number>JP204UP</Number>
   	<StartPoint>Kujanga</StartPoint>
   	<DestinationPoint>Jagatsinghpur (Jogadhari Bus stand)</DestinationPoint>
   </Route>
+  <Route routeno="JP204DN">
+  	<Number>JP204DN</Number>
+  	<StartPoint>Jagatsinghpur (Jogadhari Bus stand)</StartPoint>
+  	<DestinationPoint>Kujanga</DestinationPoint>
+  </Route>
   <Route routeno="JP205UP">
   	<Number>JP205UP</Number>
   	<StartPoint>Naugaon</StartPoint>
   	<DestinationPoint>Jagatsinghpur (Jogadhari Bus stand)</DestinationPoint>
+  </Route>
+  <Route routeno="JP205DN">
+  	<Number>JP205DN</Number>
+  	<StartPoint>Jagatsinghpur (Jogadhari Bus stand)</StartPoint>
+  	<DestinationPoint>Naugaon</DestinationPoint>
   </Route>
   <Route routeno="JP206UP">
   	<Number>JP206UP</Number>
   	<StartPoint>Raghunathpur</StartPoint>
   	<DestinationPoint>Jagatsinghpur (Jogadhari Bus stand)</DestinationPoint>
   </Route>
+  <Route routeno="JP206DN">
+  	<Number>JP206DN</Number>
+  	<StartPoint>Jagatsinghpur (Jogadhari Bus stand)</StartPoint>
+  	<DestinationPoint>Raghunathpur</DestinationPoint>
+  </Route>
   <Route routeno="JP207UP">
   	<Number>JP207UP</Number>
   	<StartPoint>Raghunathpur</StartPoint>
   	<DestinationPoint>Jagatsinghpur (Jogadhari Bus stand)</DestinationPoint>
   </Route>
+  <Route routeno="JP207DN">
+  	<Number>JP207DN</Number>
+  	<StartPoint>Jagatsinghpur (Jogadhari Bus stand)</StartPoint>
+  	<DestinationPoint>Raghunathpur</DestinationPoint>
+  </Route>
   <Route routeno="JP208UP">
   	<Number>JP208UP</Number>
   	<StartPoint>Tirtol</StartPoint>
   	<DestinationPoint>Jagatsinghpur (Jogadhari Bus stand)</DestinationPoint>
+  </Route>
+  <Route routeno="JP208DN">
+  	<Number>JP208DN</Number>
+  	<StartPoint>Jagatsinghpur (Jogadhari Bus stand)</StartPoint>
+  	<DestinationPoint>Tirtol</DestinationPoint>
   </Route>
 </Routes>

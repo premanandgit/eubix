@@ -4,299 +4,599 @@
   	<StartPoint>Dhenaknal </StartPoint>
   	<DestinationPoint> Balyamba</DestinationPoint>
   </Route>
+  <Route routeno="DL001DN">
+  	<Number>DL001DN</Number>
+  	<StartPoint> Balyamba</StartPoint>
+  	<DestinationPoint>Dhenaknal </DestinationPoint>
+  </Route>
   <Route routeno="DL002UP">
   	<Number>DL002UP</Number>
   	<StartPoint>Dhenaknal </StartPoint>
   	<DestinationPoint> Paschimeswar Mandir</DestinationPoint>
+  </Route>
+  <Route routeno="DL002DN">
+  	<Number>DL002DN</Number>
+  	<StartPoint> Paschimeswar Mandir</StartPoint>
+  	<DestinationPoint>Dhenaknal </DestinationPoint>
   </Route>
   <Route routeno="DL003UP">
   	<Number>DL003UP</Number>
   	<StartPoint>Dhenaknal </StartPoint>
   	<DestinationPoint> Regeda</DestinationPoint>
   </Route>
+  <Route routeno="DL003DN">
+  	<Number>DL003DN</Number>
+  	<StartPoint> Regeda</StartPoint>
+  	<DestinationPoint>Dhenaknal </DestinationPoint>
+  </Route>
   <Route routeno="DL004UP">
   	<Number>DL004UP</Number>
   	<StartPoint>Dhenkanal </StartPoint>
   	<DestinationPoint> Siaria</DestinationPoint>
+  </Route>
+  <Route routeno="DL004DN">
+  	<Number>DL004DN</Number>
+  	<StartPoint> Siaria</StartPoint>
+  	<DestinationPoint>Dhenkanal </DestinationPoint>
   </Route>
   <Route routeno="DL005UP">
   	<Number>DL005UP</Number>
   	<StartPoint>Dhenkanal </StartPoint>
   	<DestinationPoint> Nagiapasi</DestinationPoint>
   </Route>
+  <Route routeno="DL005DN">
+  	<Number>DL005DN</Number>
+  	<StartPoint> Nagiapasi</StartPoint>
+  	<DestinationPoint>Dhenkanal </DestinationPoint>
+  </Route>
   <Route routeno="DL006UP">
   	<Number>DL006UP</Number>
   	<StartPoint>Dhenkanal </StartPoint>
   	<DestinationPoint> Bhojadeipur</DestinationPoint>
+  </Route>
+  <Route routeno="DL006DN">
+  	<Number>DL006DN</Number>
+  	<StartPoint> Bhojadeipur</StartPoint>
+  	<DestinationPoint>Dhenkanal </DestinationPoint>
   </Route>
   <Route routeno="DL007UP">
   	<Number>DL007UP</Number>
   	<StartPoint>Dhenkanal </StartPoint>
   	<DestinationPoint> Radhadeipur</DestinationPoint>
   </Route>
+  <Route routeno="DL007DN">
+  	<Number>DL007DN</Number>
+  	<StartPoint> Radhadeipur</StartPoint>
+  	<DestinationPoint>Dhenkanal </DestinationPoint>
+  </Route>
   <Route routeno="DL008UP">
   	<Number>DL008UP</Number>
   	<StartPoint>Dhenkanal </StartPoint>
   	<DestinationPoint> Sogarpasi</DestinationPoint>
+  </Route>
+  <Route routeno="DL008DN">
+  	<Number>DL008DN</Number>
+  	<StartPoint> Sogarpasi</StartPoint>
+  	<DestinationPoint>Dhenkanal </DestinationPoint>
   </Route>
   <Route routeno="DL009UP">
   	<Number>DL009UP</Number>
   	<StartPoint>Dhenkanal </StartPoint>
   	<DestinationPoint> Parikhela</DestinationPoint>
   </Route>
+  <Route routeno="DL009DN">
+  	<Number>DL009DN</Number>
+  	<StartPoint> Parikhela</StartPoint>
+  	<DestinationPoint>Dhenkanal </DestinationPoint>
+  </Route>
   <Route routeno="DL010UP">
   	<Number>DL010UP</Number>
   	<StartPoint>Bhuban </StartPoint>
   	<DestinationPoint> Dighi</DestinationPoint>
+  </Route>
+  <Route routeno="DL010DN">
+  	<Number>DL010DN</Number>
+  	<StartPoint> Dighi</StartPoint>
+  	<DestinationPoint>Bhuban </DestinationPoint>
   </Route>
   <Route routeno="DL011UP">
   	<Number>DL011UP</Number>
   	<StartPoint>Bhuban </StartPoint>
   	<DestinationPoint> Jiral</DestinationPoint>
   </Route>
+  <Route routeno="DL011DN">
+  	<Number>DL011DN</Number>
+  	<StartPoint> Jiral</StartPoint>
+  	<DestinationPoint>Bhuban </DestinationPoint>
+  </Route>
   <Route routeno="DL012UP">
   	<Number>DL012UP</Number>
   	<StartPoint>Bhuban </StartPoint>
   	<DestinationPoint> Kanheipal</DestinationPoint>
+  </Route>
+  <Route routeno="DL012DN">
+  	<Number>DL012DN</Number>
+  	<StartPoint> Kanheipal</StartPoint>
+  	<DestinationPoint>Bhuban </DestinationPoint>
   </Route>
   <Route routeno="DL013UP">
   	<Number>DL013UP</Number>
   	<StartPoint>Bhuban </StartPoint>
   	<DestinationPoint> Odisha</DestinationPoint>
   </Route>
+  <Route routeno="DL013DN">
+  	<Number>DL013DN</Number>
+  	<StartPoint> Odisha</StartPoint>
+  	<DestinationPoint>Bhuban </DestinationPoint>
+  </Route>
   <Route routeno="DL014UP">
   	<Number>DL014UP</Number>
   	<StartPoint>Bhuban </StartPoint>
   	<DestinationPoint> Mrudanga</DestinationPoint>
+  </Route>
+  <Route routeno="DL014DN">
+  	<Number>DL014DN</Number>
+  	<StartPoint> Mrudanga</StartPoint>
+  	<DestinationPoint>Bhuban </DestinationPoint>
   </Route>
   <Route routeno="DL015UP">
   	<Number>DL015UP</Number>
   	<StartPoint>Bhuban </StartPoint>
   	<DestinationPoint> Aantapur</DestinationPoint>
   </Route>
+  <Route routeno="DL015DN">
+  	<Number>DL015DN</Number>
+  	<StartPoint> Aantapur</StartPoint>
+  	<DestinationPoint>Bhuban </DestinationPoint>
+  </Route>
   <Route routeno="DL016UP">
   	<Number>DL016UP</Number>
   	<StartPoint>Bhuban </StartPoint>
   	<DestinationPoint> Jaypur</DestinationPoint>
+  </Route>
+  <Route routeno="DL016DN">
+  	<Number>DL016DN</Number>
+  	<StartPoint> Jaypur</StartPoint>
+  	<DestinationPoint>Bhuban </DestinationPoint>
   </Route>
   <Route routeno="DL017UP">
   	<Number>DL017UP</Number>
   	<StartPoint>Gondia </StartPoint>
   	<DestinationPoint> Karamul</DestinationPoint>
   </Route>
+  <Route routeno="DL017DN">
+  	<Number>DL017DN</Number>
+  	<StartPoint> Karamul</StartPoint>
+  	<DestinationPoint>Gondia </DestinationPoint>
+  </Route>
   <Route routeno="DL018UP">
   	<Number>DL018UP</Number>
   	<StartPoint>Purakohoj </StartPoint>
   	<DestinationPoint> Kaluria</DestinationPoint>
+  </Route>
+  <Route routeno="DL018DN">
+  	<Number>DL018DN</Number>
+  	<StartPoint> Kaluria</StartPoint>
+  	<DestinationPoint>Purakohoj </DestinationPoint>
   </Route>
   <Route routeno="DL019UP">
   	<Number>DL019UP</Number>
   	<StartPoint>Purakhoj </StartPoint>
   	<DestinationPoint> Sorisiapada</DestinationPoint>
   </Route>
+  <Route routeno="DL019DN">
+  	<Number>DL019DN</Number>
+  	<StartPoint> Sorisiapada</StartPoint>
+  	<DestinationPoint>Purakhoj </DestinationPoint>
+  </Route>
   <Route routeno="DL020UP">
   	<Number>DL020UP</Number>
   	<StartPoint>Gondia </StartPoint>
   	<DestinationPoint> Khankira</DestinationPoint>
+  </Route>
+  <Route routeno="DL020DN">
+  	<Number>DL020DN</Number>
+  	<StartPoint> Khankira</StartPoint>
+  	<DestinationPoint>Gondia </DestinationPoint>
   </Route>
   <Route routeno="DL021UP">
   	<Number>DL021UP</Number>
   	<StartPoint>Gondia </StartPoint>
   	<DestinationPoint> Digambarpur</DestinationPoint>
   </Route>
+  <Route routeno="DL021DN">
+  	<Number>DL021DN</Number>
+  	<StartPoint> Digambarpur</StartPoint>
+  	<DestinationPoint>Gondia </DestinationPoint>
+  </Route>
   <Route routeno="DL022UP">
   	<Number>DL022UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Bampa</DestinationPoint>
+  </Route>
+  <Route routeno="DL022DN">
+  	<Number>DL022DN</Number>
+  	<StartPoint> Bampa</StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
   </Route>
   <Route routeno="DL023UP">
   	<Number>DL023UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Sanjapada</DestinationPoint>
   </Route>
+  <Route routeno="DL023DN">
+  	<Number>DL023DN</Number>
+  	<StartPoint> Sanjapada</StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
+  </Route>
   <Route routeno="DL024UP">
   	<Number>DL024UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Paik Purunakote</DestinationPoint>
+  </Route>
+  <Route routeno="DL024DN">
+  	<Number>DL024DN</Number>
+  	<StartPoint> Paik Purunakote</StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
   </Route>
   <Route routeno="DL025UP">
   	<Number>DL025UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Hatura </DestinationPoint>
   </Route>
+  <Route routeno="DL025DN">
+  	<Number>DL025DN</Number>
+  	<StartPoint> Hatura </StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
+  </Route>
   <Route routeno="DL026UP">
   	<Number>DL026UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Thokar</DestinationPoint>
+  </Route>
+  <Route routeno="DL026DN">
+  	<Number>DL026DN</Number>
+  	<StartPoint> Thokar</StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
   </Route>
   <Route routeno="DL027UP">
   	<Number>DL027UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Jorada</DestinationPoint>
   </Route>
+  <Route routeno="DL027DN">
+  	<Number>DL027DN</Number>
+  	<StartPoint> Jorada</StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
+  </Route>
   <Route routeno="DL028UP">
   	<Number>DL028UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Khaliborei</DestinationPoint>
+  </Route>
+  <Route routeno="DL028DN">
+  	<Number>DL028DN</Number>
+  	<StartPoint> Khaliborei</StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
   </Route>
   <Route routeno="DL029UP">
   	<Number>DL029UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Buhalipal</DestinationPoint>
   </Route>
+  <Route routeno="DL029DN">
+  	<Number>DL029DN</Number>
+  	<StartPoint> Buhalipal</StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
+  </Route>
   <Route routeno="DL030UP">
   	<Number>DL030UP</Number>
   	<StartPoint>Kamakhyanagar </StartPoint>
   	<DestinationPoint> Kantapal</DestinationPoint>
+  </Route>
+  <Route routeno="DL030DN">
+  	<Number>DL030DN</Number>
+  	<StartPoint> Kantapal</StartPoint>
+  	<DestinationPoint>Kamakhyanagar </DestinationPoint>
   </Route>
   <Route routeno="DL031UP">
   	<Number>DL031UP</Number>
   	<StartPoint>Kamakhyanagar </StartPoint>
   	<DestinationPoint> Badasuanlo</DestinationPoint>
   </Route>
+  <Route routeno="DL031DN">
+  	<Number>DL031DN</Number>
+  	<StartPoint> Badasuanlo</StartPoint>
+  	<DestinationPoint>Kamakhyanagar </DestinationPoint>
+  </Route>
   <Route routeno="DL032UP">
   	<Number>DL032UP</Number>
   	<StartPoint>Kamakhyanagar </StartPoint>
   	<DestinationPoint> Kantioputashi</DestinationPoint>
+  </Route>
+  <Route routeno="DL032DN">
+  	<Number>DL032DN</Number>
+  	<StartPoint> Kantioputashi</StartPoint>
+  	<DestinationPoint>Kamakhyanagar </DestinationPoint>
   </Route>
   <Route routeno="DL033UP">
   	<Number>DL033UP</Number>
   	<StartPoint>Kamakhyanagar </StartPoint>
   	<DestinationPoint> Sogar</DestinationPoint>
   </Route>
+  <Route routeno="DL033DN">
+  	<Number>DL033DN</Number>
+  	<StartPoint> Sogar</StartPoint>
+  	<DestinationPoint>Kamakhyanagar </DestinationPoint>
+  </Route>
   <Route routeno="DL034UP">
   	<Number>DL034UP</Number>
   	<StartPoint>Kamakhyanagar </StartPoint>
   	<DestinationPoint> Bankual</DestinationPoint>
+  </Route>
+  <Route routeno="DL034DN">
+  	<Number>DL034DN</Number>
+  	<StartPoint> Bankual</StartPoint>
+  	<DestinationPoint>Kamakhyanagar </DestinationPoint>
   </Route>
   <Route routeno="DL035UP">
   	<Number>DL035UP</Number>
   	<StartPoint>Kankadahad </StartPoint>
   	<DestinationPoint> Sundarmundi</DestinationPoint>
   </Route>
+  <Route routeno="DL035DN">
+  	<Number>DL035DN</Number>
+  	<StartPoint> Sundarmundi</StartPoint>
+  	<DestinationPoint>Kankadahad </DestinationPoint>
+  </Route>
   <Route routeno="DL036UP">
   	<Number>DL036UP</Number>
   	<StartPoint>Kankadahad </StartPoint>
   	<DestinationPoint> Kuturia</DestinationPoint>
+  </Route>
+  <Route routeno="DL036DN">
+  	<Number>DL036DN</Number>
+  	<StartPoint> Kuturia</StartPoint>
+  	<DestinationPoint>Kankadahad </DestinationPoint>
   </Route>
   <Route routeno="DL037UP">
   	<Number>DL037UP</Number>
   	<StartPoint>Kankadahad </StartPoint>
   	<DestinationPoint> Biribolel</DestinationPoint>
   </Route>
+  <Route routeno="DL037DN">
+  	<Number>DL037DN</Number>
+  	<StartPoint> Biribolel</StartPoint>
+  	<DestinationPoint>Kankadahad </DestinationPoint>
+  </Route>
   <Route routeno="DL038UP">
   	<Number>DL038UP</Number>
   	<StartPoint>Kankadahad </StartPoint>
   	<DestinationPoint> Maruabil</DestinationPoint>
+  </Route>
+  <Route routeno="DL038DN">
+  	<Number>DL038DN</Number>
+  	<StartPoint> Maruabil</StartPoint>
+  	<DestinationPoint>Kankadahad </DestinationPoint>
   </Route>
   <Route routeno="DL039UP">
   	<Number>DL039UP</Number>
   	<StartPoint>Kankadahad </StartPoint>
   	<DestinationPoint> Raibol</DestinationPoint>
   </Route>
+  <Route routeno="DL039DN">
+  	<Number>DL039DN</Number>
+  	<StartPoint> Raibol</StartPoint>
+  	<DestinationPoint>Kankadahad </DestinationPoint>
+  </Route>
   <Route routeno="DL040UP">
   	<Number>DL040UP</Number>
   	<StartPoint>Kankadahad </StartPoint>
   	<DestinationPoint> Bahadapal</DestinationPoint>
+  </Route>
+  <Route routeno="DL040DN">
+  	<Number>DL040DN</Number>
+  	<StartPoint> Bahadapal</StartPoint>
+  	<DestinationPoint>Kankadahad </DestinationPoint>
   </Route>
   <Route routeno="DL041UP">
   	<Number>DL041UP</Number>
   	<StartPoint>Kankadahad </StartPoint>
   	<DestinationPoint> Rodanga</DestinationPoint>
   </Route>
+  <Route routeno="DL041DN">
+  	<Number>DL041DN</Number>
+  	<StartPoint> Rodanga</StartPoint>
+  	<DestinationPoint>Kankadahad </DestinationPoint>
+  </Route>
   <Route routeno="DL042UP">
   	<Number>DL042UP</Number>
   	<StartPoint>Odapada </StartPoint>
   	<DestinationPoint> Kamalanga</DestinationPoint>
+  </Route>
+  <Route routeno="DL042DN">
+  	<Number>DL042DN</Number>
+  	<StartPoint> Kamalanga</StartPoint>
+  	<DestinationPoint>Odapada </DestinationPoint>
   </Route>
   <Route routeno="DL043UP">
   	<Number>DL043UP</Number>
   	<StartPoint>Odapada </StartPoint>
   	<DestinationPoint> Motanga</DestinationPoint>
   </Route>
+  <Route routeno="DL043DN">
+  	<Number>DL043DN</Number>
+  	<StartPoint> Motanga</StartPoint>
+  	<DestinationPoint>Odapada </DestinationPoint>
+  </Route>
   <Route routeno="DL044UP">
   	<Number>DL044UP</Number>
   	<StartPoint>Odapada </StartPoint>
   	<DestinationPoint> Nimidha</DestinationPoint>
+  </Route>
+  <Route routeno="DL044DN">
+  	<Number>DL044DN</Number>
+  	<StartPoint> Nimidha</StartPoint>
+  	<DestinationPoint>Odapada </DestinationPoint>
   </Route>
   <Route routeno="DL045UP">
   	<Number>DL045UP</Number>
   	<StartPoint>Odapada </StartPoint>
   	<DestinationPoint> Ghatipira Chhak</DestinationPoint>
   </Route>
+  <Route routeno="DL045DN">
+  	<Number>DL045DN</Number>
+  	<StartPoint> Ghatipira Chhak</StartPoint>
+  	<DestinationPoint>Odapada </DestinationPoint>
+  </Route>
   <Route routeno="DL046UP">
   	<Number>DL046UP</Number>
   	<StartPoint>Odapada </StartPoint>
   	<DestinationPoint> Siminia</DestinationPoint>
+  </Route>
+  <Route routeno="DL046DN">
+  	<Number>DL046DN</Number>
+  	<StartPoint> Siminia</StartPoint>
+  	<DestinationPoint>Odapada </DestinationPoint>
   </Route>
   <Route routeno="DL047UP">
   	<Number>DL047UP</Number>
   	<StartPoint>Odapada </StartPoint>
   	<DestinationPoint> Gundichapada</DestinationPoint>
   </Route>
+  <Route routeno="DL047DN">
+  	<Number>DL047DN</Number>
+  	<StartPoint> Gundichapada</StartPoint>
+  	<DestinationPoint>Odapada </DestinationPoint>
+  </Route>
   <Route routeno="DL048UP">
   	<Number>DL048UP</Number>
   	<StartPoint>Odapada </StartPoint>
   	<DestinationPoint> Kalanaga</DestinationPoint>
+  </Route>
+  <Route routeno="DL048DN">
+  	<Number>DL048DN</Number>
+  	<StartPoint> Kalanaga</StartPoint>
+  	<DestinationPoint>Odapada </DestinationPoint>
   </Route>
   <Route routeno="DL049UP">
   	<Number>DL049UP</Number>
   	<StartPoint>Parjanaga </StartPoint>
   	<DestinationPoint> Jayapurakateni</DestinationPoint>
   </Route>
+  <Route routeno="DL049DN">
+  	<Number>DL049DN</Number>
+  	<StartPoint> Jayapurakateni</StartPoint>
+  	<DestinationPoint>Parjanaga </DestinationPoint>
+  </Route>
   <Route routeno="DL050UP">
   	<Number>DL050UP</Number>
   	<StartPoint>Parjanaga </StartPoint>
   	<DestinationPoint> Ambapalas</DestinationPoint>
+  </Route>
+  <Route routeno="DL050DN">
+  	<Number>DL050DN</Number>
+  	<StartPoint> Ambapalas</StartPoint>
+  	<DestinationPoint>Parjanaga </DestinationPoint>
   </Route>
   <Route routeno="DL051UP">
   	<Number>DL051UP</Number>
   	<StartPoint>Parjanaga </StartPoint>
   	<DestinationPoint> Manikamara</DestinationPoint>
   </Route>
+  <Route routeno="DL051DN">
+  	<Number>DL051DN</Number>
+  	<StartPoint> Manikamara</StartPoint>
+  	<DestinationPoint>Parjanaga </DestinationPoint>
+  </Route>
   <Route routeno="DL052UP">
   	<Number>DL052UP</Number>
   	<StartPoint>Parjanaga </StartPoint>
   	<DestinationPoint> Kankili</DestinationPoint>
+  </Route>
+  <Route routeno="DL052DN">
+  	<Number>DL052DN</Number>
+  	<StartPoint> Kankili</StartPoint>
+  	<DestinationPoint>Parjanaga </DestinationPoint>
   </Route>
   <Route routeno="DL053UP">
   	<Number>DL053UP</Number>
   	<StartPoint>Parjanaga </StartPoint>
   	<DestinationPoint> Chandapur</DestinationPoint>
   </Route>
+  <Route routeno="DL053DN">
+  	<Number>DL053DN</Number>
+  	<StartPoint> Chandapur</StartPoint>
+  	<DestinationPoint>Parjanaga </DestinationPoint>
+  </Route>
   <Route routeno="DL201UP">
   	<Number>DL201UP</Number>
   	<StartPoint>Bhuban </StartPoint>
   	<DestinationPoint> Dhenkanal</DestinationPoint>
+  </Route>
+  <Route routeno="DL201DN">
+  	<Number>DL201DN</Number>
+  	<StartPoint> Dhenkanal</StartPoint>
+  	<DestinationPoint>Bhuban </DestinationPoint>
   </Route>
   <Route routeno="DL202UP">
   	<Number>DL202UP</Number>
   	<StartPoint>Gandia </StartPoint>
   	<DestinationPoint> Dhenkanal</DestinationPoint>
   </Route>
+  <Route routeno="DL202DN">
+  	<Number>DL202DN</Number>
+  	<StartPoint> Dhenkanal</StartPoint>
+  	<DestinationPoint>Gandia </DestinationPoint>
+  </Route>
   <Route routeno="DL203UP">
   	<Number>DL203UP</Number>
   	<StartPoint>Hindol </StartPoint>
   	<DestinationPoint> Dhenkanal</DestinationPoint>
+  </Route>
+  <Route routeno="DL203DN">
+  	<Number>DL203DN</Number>
+  	<StartPoint> Dhenkanal</StartPoint>
+  	<DestinationPoint>Hindol </DestinationPoint>
   </Route>
   <Route routeno="DL204UP">
   	<Number>DL204UP</Number>
   	<StartPoint>Parjang </StartPoint>
   	<DestinationPoint> Dhenkanal</DestinationPoint>
   </Route>
+  <Route routeno="DL204DN">
+  	<Number>DL204DN</Number>
+  	<StartPoint> Dhenkanal</StartPoint>
+  	<DestinationPoint>Parjang </DestinationPoint>
+  </Route>
   <Route routeno="DL205UP">
   	<Number>DL205UP</Number>
   	<StartPoint>Odapada </StartPoint>
   	<DestinationPoint> Dhenkanal</DestinationPoint>
+  </Route>
+  <Route routeno="DL205DN">
+  	<Number>DL205DN</Number>
+  	<StartPoint> Dhenkanal</StartPoint>
+  	<DestinationPoint>Odapada </DestinationPoint>
   </Route>
   <Route routeno="DL206UP">
   	<Number>DL206UP</Number>
   	<StartPoint>Kamakhyanagar </StartPoint>
   	<DestinationPoint> Dhenkanal</DestinationPoint>
   </Route>
+  <Route routeno="DL206DN">
+  	<Number>DL206DN</Number>
+  	<StartPoint> Dhenkanal</StartPoint>
+  	<DestinationPoint>Kamakhyanagar </DestinationPoint>
+  </Route>
   <Route routeno="DL207UP">
   	<Number>DL207UP</Number>
   	<StartPoint>Kankadahad </StartPoint>
   	<DestinationPoint> Dhenkanal</DestinationPoint>
+  </Route>
+  <Route routeno="DL207DN">
+  	<Number>DL207DN</Number>
+  	<StartPoint> Dhenkanal</StartPoint>
+  	<DestinationPoint>Kankadahad </DestinationPoint>
   </Route>
 </Routes>

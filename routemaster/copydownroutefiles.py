@@ -3,10 +3,10 @@ import os
 import shutil
 
 # Read data from Excel file
-routeType = "UP"
+routeType = "DN"
 ledType = "Micrograft"
-depo = "Jajpur"
-depo_name = "Jajpur"
+depo = "Mayurbhanj2Down"
+depo_name = "Mayurbhanj"
 excel_file = f"../micrograft/{depo}/data.xlsx"  # Change this to your Excel file name
 df = pd.read_excel(excel_file)
 
