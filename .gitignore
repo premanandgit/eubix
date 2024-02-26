@@ -3,3 +3,5 @@ route.json
 routes.json
 *.bmp
 *.txt
+**/output
+**/route_db

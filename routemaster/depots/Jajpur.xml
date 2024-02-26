@@ -1,0 +1,462 @@
+<Routes>
+  <Route routeno="JJ004UP">
+  	<Number>JJ004UP</Number>
+  	<StartPoint>Badchana</StartPoint>
+  	<DestinationPoint>Paria</DestinationPoint>
+  </Route>
+  <Route routeno="JJ004DN">
+  	<Number>JJ004DN</Number>
+  	<StartPoint>Paria</StartPoint>
+  	<DestinationPoint>Badchana</DestinationPoint>
+  </Route>
+  <Route routeno="JJ005UP">
+  	<Number>JJ005UP</Number>
+  	<StartPoint>Badchana</StartPoint>
+  	<DestinationPoint>Kolnigiri</DestinationPoint>
+  </Route>
+  <Route routeno="JJ005DN">
+  	<Number>JJ005DN</Number>
+  	<StartPoint>Kolnigiri</StartPoint>
+  	<DestinationPoint>Badchana</DestinationPoint>
+  </Route>
+  <Route routeno="JJ006UP">
+  	<Number>JJ006UP</Number>
+  	<StartPoint>Badchana</StartPoint>
+  	<DestinationPoint>Samian</DestinationPoint>
+  </Route>
+  <Route routeno="JJ006DN">
+  	<Number>JJ006DN</Number>
+  	<StartPoint>Samian</StartPoint>
+  	<DestinationPoint>Badchana</DestinationPoint>
+  </Route>
+  <Route routeno="JJ007UP">
+  	<Number>JJ007UP</Number>
+  	<StartPoint>Badchana</StartPoint>
+  	<DestinationPoint>Baratpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ007DN">
+  	<Number>JJ007DN</Number>
+  	<StartPoint>Baratpur</StartPoint>
+  	<DestinationPoint>Badchana</DestinationPoint>
+  </Route>
+  <Route routeno="JJ008UP">
+  	<Number>JJ008UP</Number>
+  	<StartPoint>Badchana</StartPoint>
+  	<DestinationPoint>Salapada</DestinationPoint>
+  </Route>
+  <Route routeno="JJ008DN">
+  	<Number>JJ008DN</Number>
+  	<StartPoint>Salapada</StartPoint>
+  	<DestinationPoint>Badchana</DestinationPoint>
+  </Route>
+  <Route routeno="JJ204UP">
+  	<Number>JJ204UP</Number>
+  	<StartPoint>Badchana</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ204DN">
+  	<Number>JJ204DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Badchana</DestinationPoint>
+  </Route>
+  <Route routeno="JJ208UP">
+  	<Number>JJ208UP</Number>
+  	<StartPoint>Bari</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ208DN">
+  	<Number>JJ208DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Bari</DestinationPoint>
+  </Route>
+  <Route routeno="JJ009UP">
+  	<Number>JJ009UP</Number>
+  	<StartPoint>Bari Ramachandrapur</StartPoint>
+  	<DestinationPoint>Udayanathpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ009DN">
+  	<Number>JJ009DN</Number>
+  	<StartPoint>Udayanathpur</StartPoint>
+  	<DestinationPoint>Bari Ramachandrapur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ010UP">
+  	<Number>JJ010UP</Number>
+  	<StartPoint>Bari Ramachandrapur</StartPoint>
+  	<DestinationPoint>Golakund</DestinationPoint>
+  </Route>
+  <Route routeno="JJ010DN">
+  	<Number>JJ010DN</Number>
+  	<StartPoint>Golakund</StartPoint>
+  	<DestinationPoint>Bari Ramachandrapur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ011UP">
+  	<Number>JJ011UP</Number>
+  	<StartPoint>Bari Ramachandrapur</StartPoint>
+  	<DestinationPoint>Amathpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ011DN">
+  	<Number>JJ011DN</Number>
+  	<StartPoint>Amathpur</StartPoint>
+  	<DestinationPoint>Bari Ramachandrapur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ012UP">
+  	<Number>JJ012UP</Number>
+  	<StartPoint>Bari Ramchandrapur</StartPoint>
+  	<DestinationPoint>Kimbhiriapal</DestinationPoint>
+  </Route>
+  <Route routeno="JJ012DN">
+  	<Number>JJ012DN</Number>
+  	<StartPoint>Kimbhiriapal</StartPoint>
+  	<DestinationPoint>Bari Ramchandrapur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ013UP">
+  	<Number>JJ013UP</Number>
+  	<StartPoint>Bari Ramchandrapur</StartPoint>
+  	<DestinationPoint>Angalo</DestinationPoint>
+  </Route>
+  <Route routeno="JJ013DN">
+  	<Number>JJ013DN</Number>
+  	<StartPoint>Angalo</StartPoint>
+  	<DestinationPoint>Bari Ramchandrapur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ014UP">
+  	<Number>JJ014UP</Number>
+  	<StartPoint>Binjharpur</StartPoint>
+  	<DestinationPoint>Udranga Brundaban Padhia</DestinationPoint>
+  </Route>
+  <Route routeno="JJ014DN">
+  	<Number>JJ014DN</Number>
+  	<StartPoint>Udranga Brundaban Padhia</StartPoint>
+  	<DestinationPoint>Binjharpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ015UP">
+  	<Number>JJ015UP</Number>
+  	<StartPoint>Binjharpur</StartPoint>
+  	<DestinationPoint>Uttarkul Govindpur Chhak</DestinationPoint>
+  </Route>
+  <Route routeno="JJ015DN">
+  	<Number>JJ015DN</Number>
+  	<StartPoint>Uttarkul Govindpur Chhak</StartPoint>
+  	<DestinationPoint>Binjharpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ016UP">
+  	<Number>JJ016UP</Number>
+  	<StartPoint>Binjharpur</StartPoint>
+  	<DestinationPoint>Kantipur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ016DN">
+  	<Number>JJ016DN</Number>
+  	<StartPoint>Kantipur</StartPoint>
+  	<DestinationPoint>Binjharpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ017UP">
+  	<Number>JJ017UP</Number>
+  	<StartPoint>Binjharpur</StartPoint>
+  	<DestinationPoint>Kusun Pur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ017DN">
+  	<Number>JJ017DN</Number>
+  	<StartPoint>Kusun Pur</StartPoint>
+  	<DestinationPoint>Binjharpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ209UP">
+  	<Number>JJ209UP</Number>
+  	<StartPoint>Binjharpur</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ209DN">
+  	<Number>JJ209DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Binjharpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ027UP">
+  	<Number>JJ027UP</Number>
+  	<StartPoint>Danagadi</StartPoint>
+  	<DestinationPoint>Uchhabali</DestinationPoint>
+  </Route>
+  <Route routeno="JJ027DN">
+  	<Number>JJ027DN</Number>
+  	<StartPoint>Uchhabali</StartPoint>
+  	<DestinationPoint>Danagadi</DestinationPoint>
+  </Route>
+  <Route routeno="JJ028UP">
+  	<Number>JJ028UP</Number>
+  	<StartPoint>Danagadi</StartPoint>
+  	<DestinationPoint>Chandia-Ranipada</DestinationPoint>
+  </Route>
+  <Route routeno="JJ028DN">
+  	<Number>JJ028DN</Number>
+  	<StartPoint>Chandia-Ranipada</StartPoint>
+  	<DestinationPoint>Danagadi</DestinationPoint>
+  </Route>
+  <Route routeno="JJ029UP">
+  	<Number>JJ029UP</Number>
+  	<StartPoint>Danagadi</StartPoint>
+  	<DestinationPoint>Kiajhar</DestinationPoint>
+  </Route>
+  <Route routeno="JJ029DN">
+  	<Number>JJ029DN</Number>
+  	<StartPoint>Kiajhar</StartPoint>
+  	<DestinationPoint>Danagadi</DestinationPoint>
+  </Route>
+  <Route routeno="JJ030UP">
+  	<Number>JJ030UP</Number>
+  	<StartPoint>Danagadi</StartPoint>
+  	<DestinationPoint>Kumbhiragadia</DestinationPoint>
+  </Route>
+  <Route routeno="JJ030DN">
+  	<Number>JJ030DN</Number>
+  	<StartPoint>Kumbhiragadia</StartPoint>
+  	<DestinationPoint>Danagadi</DestinationPoint>
+  </Route>
+  <Route routeno="JJ205UP">
+  	<Number>JJ205UP</Number>
+  	<StartPoint>Danagadi</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ205DN">
+  	<Number>JJ205DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Danagadi</DestinationPoint>
+  </Route>
+  <Route routeno="JJ206UP">
+  	<Number>JJ206UP</Number>
+  	<StartPoint>Dasarathpur</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ206DN">
+  	<Number>JJ206DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Dasarathpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ020UP">
+  	<Number>JJ020UP</Number>
+  	<StartPoint>Dasrathpur</StartPoint>
+  	<DestinationPoint>Kayan</DestinationPoint>
+  </Route>
+  <Route routeno="JJ020DN">
+  	<Number>JJ020DN</Number>
+  	<StartPoint>Kayan</StartPoint>
+  	<DestinationPoint>Dasrathpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ021UP">
+  	<Number>JJ021UP</Number>
+  	<StartPoint>Dasrathpur</StartPoint>
+  	<DestinationPoint>Dahanihata (Boulanga Chhaka)</DestinationPoint>
+  </Route>
+  <Route routeno="JJ021DN">
+  	<Number>JJ021DN</Number>
+  	<StartPoint>Dahanihata (Boulanga Chhaka)</StartPoint>
+  	<DestinationPoint>Dasrathpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ022UP">
+  	<Number>JJ022UP</Number>
+  	<StartPoint>Dasrathpur</StartPoint>
+  	<DestinationPoint>Rahasoi</DestinationPoint>
+  </Route>
+  <Route routeno="JJ022DN">
+  	<Number>JJ022DN</Number>
+  	<StartPoint>Rahasoi</StartPoint>
+  	<DestinationPoint>Dasrathpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ001UP">
+  	<Number>JJ001UP</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Badasuara</DestinationPoint>
+  </Route>
+  <Route routeno="JJ001DN">
+  	<Number>JJ001DN</Number>
+  	<StartPoint>Badasuara</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ002UP">
+  	<Number>JJ002UP</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Maheswarpur-Beruda</DestinationPoint>
+  </Route>
+  <Route routeno="JJ002DN">
+  	<Number>JJ002DN</Number>
+  	<StartPoint>Maheswarpur-Beruda</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ003UP">
+  	<Number>JJ003UP</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Bichitrapur-Jhalpada</DestinationPoint>
+  </Route>
+  <Route routeno="JJ003DN">
+  	<Number>JJ003DN</Number>
+  	<StartPoint>Bichitrapur-Jhalpada</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ023UP">
+  	<Number>JJ023UP</Number>
+  	<StartPoint>Jaraka</StartPoint>
+  	<DestinationPoint>Endalaba</DestinationPoint>
+  </Route>
+  <Route routeno="JJ023DN">
+  	<Number>JJ023DN</Number>
+  	<StartPoint>Endalaba</StartPoint>
+  	<DestinationPoint>Jaraka</DestinationPoint>
+  </Route>
+  <Route routeno="JJ024UP">
+  	<Number>JJ024UP</Number>
+  	<StartPoint>Jaraka</StartPoint>
+  	<DestinationPoint>Patunia</DestinationPoint>
+  </Route>
+  <Route routeno="JJ024DN">
+  	<Number>JJ024DN</Number>
+  	<StartPoint>Patunia</StartPoint>
+  	<DestinationPoint>Jaraka</DestinationPoint>
+  </Route>
+  <Route routeno="JJ025UP">
+  	<Number>JJ025UP</Number>
+  	<StartPoint>Jaraka</StartPoint>
+  	<DestinationPoint>Arabal</DestinationPoint>
+  </Route>
+  <Route routeno="JJ025DN">
+  	<Number>JJ025DN</Number>
+  	<StartPoint>Arabal</StartPoint>
+  	<DestinationPoint>Jaraka</DestinationPoint>
+  </Route>
+  <Route routeno="JJ026UP">
+  	<Number>JJ026UP</Number>
+  	<StartPoint>Jaraka</StartPoint>
+  	<DestinationPoint>Balisahi Chowk</DestinationPoint>
+  </Route>
+  <Route routeno="JJ026DN">
+  	<Number>JJ026DN</Number>
+  	<StartPoint>Balisahi Chowk</StartPoint>
+  	<DestinationPoint>Jaraka</DestinationPoint>
+  </Route>
+  <Route routeno="JJ201UP">
+  	<Number>JJ201UP</Number>
+  	<StartPoint>Jaraka</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ201DN">
+  	<Number>JJ201DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Jaraka</DestinationPoint>
+  </Route>
+  <Route routeno="JJ018UP">
+  	<Number>JJ018UP</Number>
+  	<StartPoint>Korei</StartPoint>
+  	<DestinationPoint>Sadakpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ018DN">
+  	<Number>JJ018DN</Number>
+  	<StartPoint>Sadakpur</StartPoint>
+  	<DestinationPoint>Korei</DestinationPoint>
+  </Route>
+  <Route routeno="JJ019UP">
+  	<Number>JJ019UP</Number>
+  	<StartPoint>Korei</StartPoint>
+  	<DestinationPoint>Tarakote-Asanjhar</DestinationPoint>
+  </Route>
+  <Route routeno="JJ019DN">
+  	<Number>JJ019DN</Number>
+  	<StartPoint>Tarakote-Asanjhar</StartPoint>
+  	<DestinationPoint>Korei</DestinationPoint>
+  </Route>
+  <Route routeno="JJ207UP">
+  	<Number>JJ207UP</Number>
+  	<StartPoint>Korei</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ207DN">
+  	<Number>JJ207DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Korei</DestinationPoint>
+  </Route>
+  <Route routeno="JJ035UP">
+  	<Number>JJ035UP</Number>
+  	<StartPoint>Rasulpur</StartPoint>
+  	<DestinationPoint>Narasinghpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ035DN">
+  	<Number>JJ035DN</Number>
+  	<StartPoint>Narasinghpur</StartPoint>
+  	<DestinationPoint>Rasulpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ036UP">
+  	<Number>JJ036UP</Number>
+  	<StartPoint>Rasulpur</StartPoint>
+  	<DestinationPoint>Laxminagar</DestinationPoint>
+  </Route>
+  <Route routeno="JJ036DN">
+  	<Number>JJ036DN</Number>
+  	<StartPoint>Laxminagar</StartPoint>
+  	<DestinationPoint>Rasulpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ037UP">
+  	<Number>JJ037UP</Number>
+  	<StartPoint>Rasulpur</StartPoint>
+  	<DestinationPoint>Bahadalpur-Barabati</DestinationPoint>
+  </Route>
+  <Route routeno="JJ037DN">
+  	<Number>JJ037DN</Number>
+  	<StartPoint>Bahadalpur-Barabati</StartPoint>
+  	<DestinationPoint>Rasulpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ202UP">
+  	<Number>JJ202UP</Number>
+  	<StartPoint>Rasulpur</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ202DN">
+  	<Number>JJ202DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Rasulpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ031UP">
+  	<Number>JJ031UP</Number>
+  	<StartPoint>Sukinda</StartPoint>
+  	<DestinationPoint>Sarangpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ031DN">
+  	<Number>JJ031DN</Number>
+  	<StartPoint>Sarangpur</StartPoint>
+  	<DestinationPoint>Sukinda</DestinationPoint>
+  </Route>
+  <Route routeno="JJ032UP">
+  	<Number>JJ032UP</Number>
+  	<StartPoint>Sukinda</StartPoint>
+  	<DestinationPoint>Mangarajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ032DN">
+  	<Number>JJ032DN</Number>
+  	<StartPoint>Mangarajpur</StartPoint>
+  	<DestinationPoint>Sukinda</DestinationPoint>
+  </Route>
+  <Route routeno="JJ033UP">
+  	<Number>JJ033UP</Number>
+  	<StartPoint>Sukinda</StartPoint>
+  	<DestinationPoint>Gobarghati</DestinationPoint>
+  </Route>
+  <Route routeno="JJ033DN">
+  	<Number>JJ033DN</Number>
+  	<StartPoint>Gobarghati</StartPoint>
+  	<DestinationPoint>Sukinda</DestinationPoint>
+  </Route>
+  <Route routeno="JJ034UP">
+  	<Number>JJ034UP</Number>
+  	<StartPoint>Sukinda</StartPoint>
+  	<DestinationPoint>Chingudipal</DestinationPoint>
+  </Route>
+  <Route routeno="JJ034DN">
+  	<Number>JJ034DN</Number>
+  	<StartPoint>Chingudipal</StartPoint>
+  	<DestinationPoint>Sukinda</DestinationPoint>
+  </Route>
+  <Route routeno="JJ203UP">
+  	<Number>JJ203UP</Number>
+  	<StartPoint>Sukinda</StartPoint>
+  	<DestinationPoint>Jajpur</DestinationPoint>
+  </Route>
+  <Route routeno="JJ203DN">
+  	<Number>JJ203DN</Number>
+  	<StartPoint>Jajpur</StartPoint>
+  	<DestinationPoint>Sukinda</DestinationPoint>
+  </Route>
+</Routes>

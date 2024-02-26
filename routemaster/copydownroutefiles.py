@@ -4,10 +4,12 @@ import shutil
 
 # Read data from Excel file
 routeType = "DN"
-ledType = "Micrograft"
-depo = "Mayurbhanj2Down"
-depo_name = "Mayurbhanj"
-excel_file = f"../micrograft/{depo}/data.xlsx"  # Change this to your Excel file name
+# ledType = "Microcraft"
+ledType = "SUMITH"
+depo = "JagatsinghpurDown"
+depo_name = "Jagatsinghpur"
+# excel_file = f"../micrograft/{depo}/data.xlsx"
+excel_file = f"../sumith/{depo}/data.xlsx"  # Change this to your Excel file name
 df = pd.read_excel(excel_file)
 
 # Define gap and line parameters
@@ -64,18 +66,18 @@ def create_text_from_excel(df, gap, line):
             # xml_content = xml_content + f"  </Route>\n"  # Example XML content
             # file.write(xml_content)
             if(ledType == "SUMITH"):
-                source_file = f"routesigns/{routeNo}.fdb" 
-                destination_folder = f"routefolders/{routeNo}{routeType}" 
+                destination_folder = f"./depo/{depo_name}/Sumith/{routeNo}{routeType}" 
+                source_file = f"../sumith/{depo}/output/{routeNo}.fdb" 
                 os.makedirs(destination_folder, exist_ok=True)
                 destination_file = os.path.join(destination_folder, f"{routeNo}{routeType}_Front.bin")
                 shutil.copy(source_file, destination_file)
-                source_file = f"routesigns/{routeNo}.sdb" 
+                source_file = f"../sumith/{depo}/output/{routeNo}.sdb" 
                 # destination_folder = f"routefolders/{routeNo}" 
                 os.makedirs(destination_folder, exist_ok=True)
                 destination_file = os.path.join(destination_folder, f"{routeNo}{routeType}_Side.bin")
                 shutil.copy(source_file, destination_file)
 
-                source_file = f"routesigns/{routeNo}.rdb" 
+                source_file = f"../sumith/{depo}/output/{routeNo}.rdb" 
                 # destination_folder = f"routefolders/{routeNo}" 
                 os.makedirs(destination_folder, exist_ok=True)
                 destination_file = os.path.join(destination_folder, f"{routeNo}{routeType}_Rear.bin")
