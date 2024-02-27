@@ -5,3 +5,4 @@ routes.json
 *.txt
 **/output
 **/route_db
+**/leddat
