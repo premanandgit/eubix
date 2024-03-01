@@ -3,13 +3,17 @@ import os
 import shutil
 
 # Read data from Excel file
+# routeType = "UP"
 routeType = "DN"
+ledType = "MASSTRANS"
 # ledType = "Microcraft"
-ledType = "SUMITH"
-depo = "JagatsinghpurDown"
-depo_name = "Jagatsinghpur"
+# ledType = "SUMITH"
+# ledType = "Aargee"
+depo = "MayurbhanjDown"
+depo_name = "Mayurbhanj"
 # excel_file = f"../micrograft/{depo}/data.xlsx"
-excel_file = f"../sumith/{depo}/data.xlsx"  # Change this to your Excel file name
+# excel_file = f"../sumith/{depo}/data.xlsx"  # Change this to your Excel file name
+excel_file = f"../routedestvia/{depo_name}{routeType}.xlsx"  # Change this to your Excel file name
 df = pd.read_excel(excel_file)
 
 # Define gap and line parameters
@@ -83,10 +87,10 @@ def create_text_from_excel(df, gap, line):
                 destination_file = os.path.join(destination_folder, f"{routeNo}{routeType}_Rear.bin")
                 shutil.copy(source_file, destination_file)
             elif(ledType == "MASSTRANS"):
-                destination_folder = f"routefolders/{routeNo}{routeType}" 
+                destination_folder = f"./depo/{depo_name}/Masstrans/{routeNo}{routeType}" 
                 os.makedirs(destination_folder, exist_ok=True)
 
-                source_file = f"routesigns/{routeNo}/{routeNo}.txt"
+                source_file = f"../masstrans/{depo}/{routeNo}/{routeNo}.txt"
                 content = read_text_file(source_file) 
 
                 content_with_checksum = calculate_checksum("01", content)
